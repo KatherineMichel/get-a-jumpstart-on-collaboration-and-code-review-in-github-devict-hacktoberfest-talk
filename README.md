@@ -32,7 +32,7 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 
 ## Slides and Script Table of Contents
 
-- [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
+- [Placeholder](#)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -40,7 +40,7 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 
 ## Slides and Script
 
-The script is a general outline and varies somewhat from what was said during the webcast.
+The script is a general outline and varies somewhat from what was said during the talk.
 
 <table>
 
