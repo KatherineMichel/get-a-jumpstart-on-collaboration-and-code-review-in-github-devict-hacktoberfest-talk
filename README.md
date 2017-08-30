@@ -41,15 +41,12 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Welcome](#welcome)
 - [About Me](#about-me)
 - [Goal](#goal)
-
-- [I Don’t Want You to Be Like Me!](#i-dont-want-you-to-be-like-me)
-- [Understanding the Process and Hands On Practice](#understanding-the-process-and-hands-on-practice)
-- [Resources](#resources)
-
 - [Announcing TacoFancy](#announcing-tacofancy)
 - [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
 - [My First Pull Request](#my-first-pull-request)
 - [DjangoCon US Website as Example Project](#djangocon-us-website-as-example-project)
+- [Prerequisites for Getting Started](#prerequisites-for-getting-started)
+- [Getting Help](#getting-help)
 - [What are Git and GitHub?](#what-are-git-and-github)
 - [Social Network](#social-network)
 - [Repositories](#repositories)
@@ -67,13 +64,7 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Why We Need Write Permission](#why-we-need-write-permission)
 - [Write Permission and Collaboration Examples](#write-permission-and-collaboration-examples)
 - [How to Fork a Repo](#how-to-fork-a-repo)
-
 - [Forked Repo](#forked-repo)
-- [Interesting Thing #1: Opposites](#interesting-thing-1-opposites)
-- [Interesting Thing #2: User Account Shared Repo Disadvantage](#interesting-thing-2-user-account-shared-repo-disadvantage)
-- [Interesting Thing #3: Write Permission Examples](#interesting-thing-3-write-permission-examples)
-- [Interesting Thing #4: Inactive Pull Requests](#interesting-thing-4-inactive-pull-requests)
-
 - [Section 2](#section-2)
 - [Fork and Pull Model](#fork-and-pull-model)
 - [Shared Repository Model](#shared-repository-model)
@@ -89,6 +80,16 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Pushing](#pushing)
 - [New Branch](#new-branch)
 - [Submit a Pull Request](#submit-a-pull-request)
+
+- [I Don’t Want You to Be Like Me!](#i-dont-want-you-to-be-like-me)
+- [Understanding the Process and Hands On Practice](#understanding-the-process-and-hands-on-practice)
+- [Resources](#resources)
+
+- [Interesting Thing #1: Opposites](#interesting-thing-1-opposites)
+- [Interesting Thing #2: User Account Shared Repo Disadvantage](#interesting-thing-2-user-account-shared-repo-disadvantage)
+- [Interesting Thing #3: Write Permission Examples](#interesting-thing-3-write-permission-examples)
+- [Interesting Thing #4: Inactive Pull Requests](#interesting-thing-4-inactive-pull-requests)
+
 - [Section 3](#section-3)
 - [Pull Request Review Process](#pull-request-review-process)
 - [Pull Request Command Line](#pull-request-command-line)
@@ -118,10 +119,24 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Go For It!](#go-for-it)
 
 - [Section 7](#section-7)
-- [Prerequisites for Getting Started](#prerequisites-for-getting-started)
-- [Getting Help](#getting-help)
+
 - [Debunking Myths](#debunking-myths)
 - [Thank You](#thank-you)
+
+### Bash
+### Avoiding Cloning Conflicts 
+### Local Development
+### Review Shared Repo Pull Request
+### Review Forked Repo Pull Request
+### Merge Pull Request Locally and Push to Master Branch
+### Alternatively, Fetch Individual Pull Request
+### Delete a Branch
+### Common Branch Commands
+### Common Add and Commit Commands
+### Common Push and Pull Commands
+### Fetch and Merge Versus Pull
+### Adding a Remote Upstream and Syncing a Fork
+### Syncing Branches to Keep Them Up-to-Date
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
