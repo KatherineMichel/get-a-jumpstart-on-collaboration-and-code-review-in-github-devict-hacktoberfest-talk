@@ -34,6 +34,100 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 
 - [Placeholder](#)
 
+<!--
+## Slides and Script Table of Contents
+
+- [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
+- [Welcome](#welcome)
+- [About Me](#about-me)
+- [Goal](#goal)
+
+- [I Don’t Want You to Be Like Me!](#i-dont-want-you-to-be-like-me)
+- [Understanding the Process and Hands On Practice](#understanding-the-process-and-hands-on-practice)
+- [Resources](#resources)
+
+- [Announcing TacoFancy](#announcing-tacofancy)
+- [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
+- [My First Pull Request](#my-first-pull-request)
+- [DjangoCon US Website as Example Project](#djangocon-us-website-as-example-project)
+- [What are Git and GitHub?](#what-are-git-and-github)
+- [Social Network](#social-network)
+- [Repositories](#repositories)
+- [Local Development Environment Example](#local-development-environment-example)
+- [Collaboration and Code Review Best Practice Workflow](#collaboration-and-code-review-best-practice-workflow)
+- [Working on a File in GitHub](#working-on-a-file-in-github)
+- [Branches](#branches)
+- [How to Create a Branch](#how-to-create-a-branch)
+- [Overview](#overview)
+- [Section 1](#section-1)
+- [The Two Collaborative Development Models](#the-two-collaborative-development-models)
+- [The Two Types of Accounts](#the-two-types-of-accounts)
+- [Write Permission](#write-permission)
+- [Examples of What Write Permission Will Allow You to Do](#examples-of-what-write-permission-will-allow-you-to-do)
+- [Why We Need Write Permission](#why-we-need-write-permission)
+- [Write Permission and Collaboration Examples](#write-permission-and-collaboration-examples)
+- [How to Fork a Repo](#how-to-fork-a-repo)
+
+- [Forked Repo](#forked-repo)
+- [Interesting Thing #1: Opposites](#interesting-thing-1-opposites)
+- [Interesting Thing #2: User Account Shared Repo Disadvantage](#interesting-thing-2-user-account-shared-repo-disadvantage)
+- [Interesting Thing #3: Write Permission Examples](#interesting-thing-3-write-permission-examples)
+- [Interesting Thing #4: Inactive Pull Requests](#interesting-thing-4-inactive-pull-requests)
+
+- [Section 2](#section-2)
+- [Fork and Pull Model](#fork-and-pull-model)
+- [Shared Repository Model](#shared-repository-model)
+- [Bash Commands](#bash-commands)
+- [Local Development Environment](#local-development-environment)
+- [Cloning](#cloning)
+- [Changing Directory](#changing-directory)
+- [GitHub Repo Versus Local Directory](#github-repo-versus-local-directory)
+- [Verifying Branch](#verifying-branch)
+- [Creating a New Branch](#creating-a-new-branch)
+- [Working on a File Locally](#working-on-a-file-locally)
+- [Adding and Committing](#adding-and-committing)
+- [Pushing](#pushing)
+- [New Branch](#new-branch)
+- [Submit a Pull Request](#submit-a-pull-request)
+- [Section 3](#section-3)
+- [Pull Request Review Process](#pull-request-review-process)
+- [Pull Request Command Line](#pull-request-command-line)
+- [Pull Request Review Options](#pull-request-review-options)
+- [Pull Request Branches](#pull-request-branches)
+- [Pull Request Review](#pull-request-review)
+- [Merging](#merging)
+- [Tidy Up](#tidy-up)
+- [Advanced Topics](#advanced-topics)
+- [Section 4](#section-4)
+- [Practical Commands](#practical-commands)
+- [GitHub Flow](#github-flow)
+- [Another Workflow](#another-workflow)
+- [Learn More About Workflow](#learn-more-about-workflow)
+- [Section 5](#section-5)
+- [Getting to 10x Results](#getting-to-10x-results)
+- [Communication Strategy](#communication-strategy)
+- [Documentation](#documentation)
+- [Templates](#templates)
+- [Communication Forums](#communication-forums)
+- [Section 6](#section-6)
+- [Code Safety](#code-safety)
+- [Additional Safety Considerations](#code-safety-considerations)
+- [Productivity Helpers](#productivity-helpers)
+- [Triaging](#triaging)
+- [Sandboxing](#sandboxing)
+- [Go For It!](#go-for-it)
+
+- [Section 7](#section-7)
+- [Prerequisites for Getting Started](#prerequisites-for-getting-started)
+- [Getting Help](#getting-help)
+- [Debunking Myths](#debunking-myths)
+- [Thank You](#thank-you)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+-->
+
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
