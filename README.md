@@ -4,8 +4,6 @@
 
 - [About](#about)
 - [GitHub and Git Installation Instructions](#github-and-git-installation-instructions)
-- [Important Webcast Links](#important-webcast-links)
-- [Additional PyLadies Resources](#additional-pyladies-resources)
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
 - [Slides and Script](#slides-and-script)
 - [Useful Resources](#useful-resources)
@@ -47,36 +45,19 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 
 <hr>
 
-<!--
-## Important Links
-
-* [DjangoCon GitHub Repo](https://github.com/djangocon)
-* [DjangoCon U.S. 2017 Website Repo GitHub](https://github.com/djangocon/2017.djangocon.us)
-
-:top: <sub>[**back to top**](#table-of-contents)</sub>
-
-<hr>
--->
-
 ## Slides and Script Table of Contents
 
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
 - [Welcome](#welcome)
 - [About Me](#about-me)
 - [Goal](#goal)
-<!--
-- [I Don’t Want You to Be Like Me!](#i-dont-want-you-to-be-like-me)
-- [Understanding the Process and Hands On Practice](#understanding-the-process-and-hands-on-practice)
--->
 - [Resources](#resources)
 - [Announcing TacoFancy](#announcing-tacofancy)
 - [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
 - [My First Pull Request](#my-first-pull-request)
 - [DjangoCon US Website as Example Project](#djangocon-us-website-as-example-project)
-<!--
 - [Prerequisites for Getting Started](#prerequisites-for-getting-started)
 - [Getting Help](#getting-help)
--->
 - [What are Git and GitHub?](#what-are-git-and-github)
 - [Social Network](#social-network)
 - [Repositories](#repositories)
@@ -144,9 +125,6 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Sandboxing](#sandboxing)
 - [Go For It!](#go-for-it)
 - [Section 7](#section-7)
-<!--
-- [Simulation Exercise](#simulation-exercise)
--->
 - [Debunking Myths](#debunking-myths)
 - [Thank You](#thank-you)
 
@@ -237,52 +215,29 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 <!--
 <tr><td width="30%">
 
-![Slide 5](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_4.jpg)
-
-</td><td>
-
-### I Don’t Want You to Be Like Me!
-
-* I wish I had taken on more responsibility sooner
-* For example, I thought that being a repo maintainer was for other people, and how it is done was a mystery to me
-* Once I became a maintainer, I learned as I went along. I made mistakes in front of people. I sometimes had to ask senior developers to explain things to me or spend time researching online. 
-* Fortunately, I have been a maintainer in an extremely supportive environment. 
-* I want all of you to benefit from my trial and error.
-
-</td></tr>
-
-
-<tr><td width="30%">
-
 ![Slide 6](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_5.jpg)
 
 </td><td>
 
-### Understanding the Process and Hands On Practice
+### Understanding the Process
 
-* This is a real process that you can learn and use.
 * I'm going to be showing you a lot of screenshots and diagrams, because I want you to understand what the process looks like.
-* At the end of my presentation, there will be an opportunity to practice reviewing a pull request in a no-pressure environment. 
-* I think this highly valuable, because if you learn the process first, you can be more confident to seek opportunities to collaborate and maintain. 
 
 </td></tr>
--->
-
 
 <tr><td width="30%">
 
-![Slide 7](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_6.jpg)
+![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_6.jpg)
 
 </td><td>
 
 ### Resources
 * If you miss anything during my talk, my slides and a replay of my talk will be online later
 * On my last slide, there will be a link to Useful Resources where you will find documentation and all of the commands I will be showing you today. 
-* If you choose to take part in the simulation exercise, your repo will remain there indefinitely so that you can practice and experiment in the future. 
 * You are welcome to contact me if you have any questions
 
 </td></tr>
-
+-->
 
 <tr><td width="30%">
 
@@ -340,10 +295,9 @@ I kept using Git and GitHub and getting better at it. I eventually became a Djan
 </td></tr>
 
 
-<!--
 <tr><td width="30%">
 
-![Slide 104](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
+![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
 
 </td><td>
 
@@ -361,7 +315,7 @@ You will find documentation for all of these things in the Useful Resources sect
 
 <tr><td width="30%">
 
-![Slide 105](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
+![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
 
 </td><td>
 
@@ -384,7 +338,6 @@ $ man git-clone
 ```
 
 </td></tr>
--->
 
 
 <tr><td width="30%">
@@ -1838,6 +1791,15 @@ I recommend that you be good to yourself.
 
 </td></tr>
 
+<!--
+### I Don’t Want You to Be Like Me!
+
+* I wish I had taken on more responsibility sooner
+* For example, I thought that being a repo maintainer was for other people, and how it is done was a mystery to me
+* Once I became a maintainer, I learned as I went along. I made mistakes in front of people. I sometimes had to ask senior developers to explain things to me or spend time researching online. 
+* Fortunately, I have been a maintainer in an extremely supportive environment. 
+* I want all of you to benefit from my trial and error.
+-->
 
 <tr><td width="30%">
 
@@ -1872,24 +1834,9 @@ My last but not least recommendation is that you become a contributor to the Dja
 </td></tr>
 
 
-<!--
 <tr><td width="30%">
 
-![Slide 103](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_102.jpg)
-
-</td><td>
-
-### Simulation Exercise
-
-Explanation
-
-</td></tr>
--->
-
-
-<tr><td width="30%">
-
-![Slide 106](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
+![Slide 103](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
 
 </td><td>
 
@@ -1910,6 +1857,17 @@ https://git.io/v5kpy
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
+
+<!--
+## Important Links
+
+* [DjangoCon GitHub Repo](https://github.com/djangocon)
+* [DjangoCon U.S. 2017 Website Repo GitHub](https://github.com/djangocon/2017.djangocon.us)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+-->
 
 ## Useful Resources
 
