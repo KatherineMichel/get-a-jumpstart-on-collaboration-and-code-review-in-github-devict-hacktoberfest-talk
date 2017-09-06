@@ -51,7 +51,6 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Welcome](#welcome)
 - [About Me](#about-me)
 - [Goal](#goal)
-- [Resources](#resources)
 - [Announcing TacoFancy](#announcing-tacofancy)
 - [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
 - [My First Pull Request](#my-first-pull-request)
@@ -151,7 +150,7 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 
 ## Slides and Script
 
-The script is a general outline and varies somewhat from what was said during the webcast.
+The script is a general outline and varies somewhat from what was said during the talk.
 
 <table>
 
@@ -207,41 +206,16 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 ### Goal
 
 * I want to teach you a process that will get you started collaborating and doing code review as quickly as possible. 
-* For one thing, there is more male participation than female. I want to see female participation increase. More women should be maintainers.
-
-</td></tr>
-
-
-<!--
-<tr><td width="30%">
-
-![Slide 6](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_5.jpg)
-
-</td><td>
-
-### Understanding the Process
-
 * I'm going to be showing you a lot of screenshots and diagrams, because I want you to understand what the process looks like.
+* But don’t worry if you miss anything, because at the end of my talk, there will be a slide with a link to Useful Resources where you will find documentation and all of the commands I will be showing you today. 
+* My slides and a video of my talk will also be online later.
 
 </td></tr>
 
-<tr><td width="30%">
-
-![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_6.jpg)
-
-</td><td>
-
-### Resources
-* If you miss anything during my talk, my slides and a replay of my talk will be online later
-* On my last slide, there will be a link to Useful Resources where you will find documentation and all of the commands I will be showing you today. 
-* You are welcome to contact me if you have any questions
-
-</td></tr>
--->
 
 <tr><td width="30%">
 
-![Slide 8](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_7.jpg)
+![Slide 5](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_7.jpg)
 
 </td><td>
 
@@ -257,7 +231,7 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 
 <tr><td width="30%">
 
-![Slide 9](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_8.jpg)
+![Slide 6](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_8.jpg)
 
 </td><td>
 
@@ -270,7 +244,7 @@ One sentence in the project information that had a huge impact on me: "Are You N
 
 <tr><td width="30%">
 
-![Slide 10](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_9.jpg)
+![Slide 7](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_9.jpg)
 
 </td><td>
 
@@ -283,7 +257,7 @@ That was me. I became very determined to contribute and submitted my first pull 
 
 <tr><td width="30%">
 
-![Slide 11](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_10.jpg)
+![Slide 8](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_10.jpg)
 
 </td><td>
 
@@ -297,7 +271,7 @@ I kept using Git and GitHub and getting better at it. I eventually became a Djan
 
 <tr><td width="30%">
 
-![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
+![Slide 9](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
 
 </td><td>
 
@@ -315,7 +289,7 @@ You will find documentation for all of these things in the Useful Resources sect
 
 <tr><td width="30%">
 
-![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
+![Slide 10](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
 
 </td><td>
 
@@ -342,7 +316,7 @@ $ man git-clone
 
 <tr><td width="30%">
 
-![Slide 12](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_11.jpg)
+![Slide 11](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_11.jpg)
 
 </td><td>
 
@@ -355,7 +329,7 @@ GitHub is a website built on the version control software Git.
 
 <tr><td width="30%">
 
-![Slide 13](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_12.jpg)
+![Slide 12](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_12.jpg)
 
 </td><td>
 
@@ -372,7 +346,7 @@ GitHub is a social network. You can:
 
 <tr><td width="30%">
 
-![Slide 14](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_13.jpg)
+![Slide 13](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_13.jpg)
 
 </td><td>
 
@@ -385,7 +359,7 @@ But the really important part of GitHub is that users can store and work on code
 
 <tr><td width="30%">
 
-![Slide 15](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_14.jpg)
+![Slide 14](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_14.jpg)
 
 </td><td>
 
@@ -400,7 +374,7 @@ For example, if you go to the DjangoCon US organization account you will see a l
 
 <tr><td width="30%">
 
-![Slide 16](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_15.jpg)
+![Slide 15](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_15.jpg)
 
 </td><td>
 
@@ -415,7 +389,7 @@ If you click on the hyperlink, it will open up the repo and you will see the fol
 
 <tr><td width="30%">
 
-![Slide 17](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_16.jpg)
+![Slide 16](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_16.jpg)
 
 </td><td>
 
@@ -433,7 +407,7 @@ When we are working on code, we can't do everything in the GitHub website.
 
 <tr><td width="30%">
 
-![Slide 18](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_17.jpg)
+![Slide 17](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_17.jpg)
 
 </td><td>
 
@@ -448,7 +422,7 @@ When we are working on code, we can't do everything in the GitHub website.
 
 <tr><td width="30%">
 
-![Slide 19](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_18.jpg)
+![Slide 18](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_18.jpg)
 
 </td><td>
 
@@ -466,7 +440,7 @@ I will elaborate on this process later.
 
 <tr><td width="30%">
 
-![Slide 20](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_19.jpg)
+![Slide 19](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_19.jpg)
 
 </td><td>
 
@@ -484,7 +458,7 @@ In order to be able to increase your level of responsibility, we need to have th
 
 <tr><td width="30%">
 
-![Slide 21](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_20.jpg)
+![Slide 20](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_20.jpg)
 
 </td><td>
 
@@ -499,7 +473,7 @@ This is fine, but imagine if there were multiple people all working on a repo an
 
 <tr><td width="30%">
 
-![Slide 22](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_21.jpg)
+![Slide 21](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_21.jpg)
 
 </td><td>
 
@@ -518,7 +492,7 @@ When you create a repo, by default you are working within a branch named master.
 
 <tr><td width="30%">
 
-![Slide 23](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_22.jpg)
+![Slide 22](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_22.jpg)
 
 </td><td>
 
@@ -533,7 +507,7 @@ Say for instance that you want to make a change in the branch, you can make a co
 
 <tr><td width="30%">
 
-![Slide 24](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_23.jpg)
+![Slide 23](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_23.jpg)
 
 </td><td>
 
@@ -548,7 +522,7 @@ You can create an unlimited number of branches and you can switch in between the
 
 <tr><td width="30%">
 
-![Slide 25](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_24.jpg)
+![Slide 24](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_24.jpg)
 
 </td><td>
 
@@ -563,7 +537,7 @@ At some point, when the feature branch author thinks it's done, a pull request w
 
 <tr><td width="30%">
 
-![Slide 26](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_25.jpg)
+![Slide 25](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_25.jpg)
 
 </td><td>
 
@@ -580,7 +554,7 @@ If the changes are accepted, they will be merged into the master branch. The mas
 
 <tr><td width="30%">
 
-![Slide 27](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_26.jpg)
+![Slide 26](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_26.jpg)
 
 </td><td>
 
@@ -593,7 +567,7 @@ Let's go back to the screenshot of editing a file in GitHub.
 
 <tr><td width="30%">
 
-![Slide 28](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_27.jpg)
+![Slide 27](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_27.jpg)
 
 </td><td>
 
@@ -610,7 +584,7 @@ You can also create and work on branches through the command line in your local 
 
 <tr><td width="30%">
 
-![Slide 29](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_28.jpg)
+![Slide 28](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_28.jpg)
 
 </td><td>
 
@@ -628,7 +602,7 @@ You can also create and work on branches through the command line in your local 
 
 <tr><td width="30%">
 
-![Slide 30](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_29.jpg)
+![Slide 29](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_29.jpg)
 
 </td><td>
 
@@ -641,7 +615,7 @@ You can also create and work on branches through the command line in your local 
 
 <tr><td width="30%">
 
-![Slide 31](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_30.jpg)
+![Slide 30](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_30.jpg)
 
 </td><td>
 
@@ -657,7 +631,7 @@ The two different models typically correspond to the two different account types
 
 <tr><td width="30%">
 
-![Slide 32](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_31.jpg)
+![Slide 31](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_31.jpg)
 
 </td><td>
 
@@ -672,7 +646,7 @@ There are two types of accounts
 
 <tr><td width="30%">
 
-![Slide 33](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_32.jpg)
+![Slide 32](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_32.jpg)
 
 </td><td>
 
@@ -686,7 +660,7 @@ When a user has write permission to a repo, it means they can make changes direc
 
 <tr><td width="30%">
 
-![Slide 34](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_33.jpg)
+![Slide 33](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_33.jpg)
 
 </td><td>
 
@@ -703,7 +677,7 @@ https://help.github.com/articles/repository-permission-levels-for-an-organizatio
 
 <tr><td width="30%">
 
-![Slide 35](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_34.jpg)
+![Slide 34](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_34.jpg)
 
 </td><td>
 
@@ -716,7 +690,7 @@ Example: DjangoCon US website is a deployed live from the master branch and has 
 
 <tr><td width="30%">
 
-![Slide 36](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_35.jpg)
+![Slide 35](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_35.jpg)
 
 </td><td>
 
@@ -730,7 +704,7 @@ First, we’ll look at the “Shared Repository” Model. A shared repository is
 
 <tr><td width="30%">
 
-![Slide 37](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_36.jpg)
+![Slide 36](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_36.jpg)
 
 </td><td>
 
@@ -745,7 +719,7 @@ The “Fork and Pull” Model is typically used in user account repos. For examp
 
 <tr><td width="30%">
 
-![Slide 38](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_37.jpg)
+![Slide 37](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_37.jpg)
 
 </td><td>
 
@@ -760,7 +734,7 @@ We've gone to the DjangoCon US website repo.
 
 <tr><td width="30%">
 
-![Slide 39](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_38.jpg)
+![Slide 38](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_38.jpg)
 
 </td><td>
 
@@ -775,7 +749,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 40](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_39.jpg)
+![Slide 39](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_39.jpg)
 
 </td><td>
 
@@ -788,7 +762,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 41](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_40.jpg)
+![Slide 40](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_40.jpg)
 
 </td><td>
 
@@ -803,7 +777,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 42](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_41.jpg)
+![Slide 41](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_41.jpg)
 
 </td><td>
 
@@ -819,9 +793,10 @@ There will be a message notifying you that it is being forked.
 </td></tr>
 
 
+<!--
 <tr><td width="30%">
 
-![Slide 43](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_42.jpg)
+![Slide 42](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_42.jpg)
 
 </td><td>
 
@@ -874,6 +849,8 @@ It’s typical that a shared repository will be found in an organization and a f
 A few minutes ago, I talked about how it’s impractical to go into a file and make changes directly if you are working with multiple people and that it’s better to use branches. If you fork a repo, you also want to use branches. Say for instance, you make a change in the file and submit a pull request (without using a branch), you’re stuck waiting for the pull request to be resolved. Normally, you want your main branch to stay up-to-date so that you create new feature branches, but you’ve made a change in your main branch. If you delete the fork and refork to make it up to date, the pull request remains, but is inactive. It will be harder for the maintainer and you to work on. Instead, you want to keep the main branch up-to-date and use branches, just like we talked about a few minutes ago. 
 
 </td></tr>
+-->
+
 
 
 <tr><td width="30%">
