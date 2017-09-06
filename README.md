@@ -64,17 +64,19 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Welcome](#welcome)
 - [About Me](#about-me)
 - [Goal](#goal)
-- [Announcing TacoFancy](#announcing-tacofancy)
-- [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
-- [My First Pull Request](#my-first-pull-request)
 <!--
 - [I Don’t Want You to Be Like Me!](#i-dont-want-you-to-be-like-me)
 - [Understanding the Process and Hands On Practice](#understanding-the-process-and-hands-on-practice)
-- [Resources](#resources)
 -->
+- [Resources](#resources)
+- [Announcing TacoFancy](#announcing-tacofancy)
+- [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
+- [My First Pull Request](#my-first-pull-request)
 - [DjangoCon US Website as Example Project](#djangocon-us-website-as-example-project)
+<!--
 - [Prerequisites for Getting Started](#prerequisites-for-getting-started)
 - [Getting Help](#getting-help)
+-->
 - [What are Git and GitHub?](#what-are-git-and-github)
 - [Social Network](#social-network)
 - [Repositories](#repositories)
@@ -144,8 +146,6 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Section 7](#section-7)
 <!--
 - [Simulation Exercise](#simulation-exercise)
-- [Prerequisites for Getting Started](#prerequisites-for-getting-started)
-- [Getting Help](#getting-help)
 -->
 - [Debunking Myths](#debunking-myths)
 - [Thank You](#thank-you)
@@ -234,6 +234,7 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 </td></tr>
 
 
+<!--
 <tr><td width="30%">
 
 ![Slide 5](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_4.jpg)
@@ -265,6 +266,7 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 * I think this highly valuable, because if you learn the process first, you can be more confident to seek opportunities to collaborate and maintain. 
 
 </td></tr>
+-->
 
 
 <tr><td width="30%">
@@ -336,6 +338,53 @@ I kept using Git and GitHub and getting better at it. I eventually became a Djan
 * I am going to use DjangoCon US website as an example throughout this talk. 
 
 </td></tr>
+
+
+<!--
+<tr><td width="30%">
+
+![Slide 104](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
+
+</td><td>
+
+### Prerequisites for Getting Started
+
+* Create a free [GitHub](https://github.com) account online
+* Install Git on your computer and set your email and username
+* Find and open your command line (a.k.a. terminal) on your computer
+* Be able to navigate via command line (See Bash commands)
+* You might also want to have a text editor of your choice installed, to use to edit files
+You will find documentation for all of these things in the Useful Resources section.
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 105](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
+
+</td><td>
+
+### Getting Help
+
+* Help via Git, GitHub Help and Guides  (links in Useful Resources Section)
+* Help via command line (exit by typing “q”)
+* Help via GitHub Keyboard Shortcuts (type "?")
+
+```bash
+$ git help <verb>
+$ git <verb> --help
+$ man git-<verb>
+```
+
+```bash
+$ git help clone
+$ git clone --help
+$ man git-clone
+```
+
+</td></tr>
+-->
 
 
 <tr><td width="30%">
@@ -1638,7 +1687,7 @@ https://github.com/djangocon/2017.djangocon.us/blob/master/CONTRIBUTING.md
 
 See the Simulation Exercise
 * ISSUE_TEMPLATE
-* PULL_REQUEST_TEMPLATE'
+* PULL_REQUEST_TEMPLATE
 
 </td></tr>
 
@@ -1823,6 +1872,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 </td></tr>
 
 
+<!--
 <tr><td width="30%">
 
 ![Slide 103](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_102.jpg)
@@ -1834,51 +1884,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 Explanation
 
 </td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 104](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
-
-</td><td>
-
-### Prerequisites for Getting Started
-
-* Create a free [GitHub](https://github.com) account online
-* Install Git on your computer and set your email and username
-* Find and open your command line (a.k.a. terminal) on your computer
-* Be able to navigate via command line (See Bash commands)
-* You might also want to have a text editor of your choice installed, to use to edit files
-You will find documentation for all of these things in the Useful Resources section.
-
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 105](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
-
-</td><td>
-
-### Getting Help
-
-* Help via Git, GitHub Help and Guides  (links in Useful Resources Section)
-* Help via command line (exit by typing “q”)
-* Help via GitHub Keyboard Shortcuts (type "?")
-
-```bash
-$ git help <verb>
-$ git <verb> --help
-$ man git-<verb>
-```
-
-```bash
-$ git help clone
-$ git clone --help
-$ man git-clone
-```
-
-</td></tr>
+-->
 
 
 <tr><td width="30%">
