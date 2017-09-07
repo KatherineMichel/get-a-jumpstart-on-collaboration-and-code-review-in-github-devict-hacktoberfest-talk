@@ -102,11 +102,26 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Pull Request Review Options](#pull-request-review-options)
 - [Pull Request Branches](#pull-request-branches)
 - [Pull Request Review](#pull-request-review)
+
+<!--
+Adding and Committing
+Pushing Additional Commits
+-->
+
 - [Merging](#merging)
 - [Tidy Up](#tidy-up)
 - [Advanced Topics](#advanced-topics)
 - [Section 4](#section-4)
 - [Practical Commands](#practical-commands)
+
+<!--
+Common Branch Commands
+Common Adding and Committing Commands
+### Adding a Remote Upstream and Syncing a Fork
+### Common Push and Pull Commands
+### Syncing Branches to Keep Them Up-to-Date
+-->
+
 - [GitHub Flow](#github-flow)
 - [Another Workflow](#another-workflow)
 - [Learn More About Workflow](#learn-more-about-workflow)
