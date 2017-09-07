@@ -127,7 +127,9 @@ Common Adding and Committing Commands
 - [Learn More About Workflow](#learn-more-about-workflow)
 - [Section 5](#section-5)
 - [Getting to 10x Results](#getting-to-10x-results)
+<!--
 - [Communication Strategy](#communication-strategy)
+-->
 - [Documentation](#documentation)
 - [Templates](#templates)
 - [Communication Forums](#communication-forums)
@@ -1580,6 +1582,11 @@ https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmf
 
 ### Getting to 10x Results
 
+<!--
+### Communication Strategy
+I hope that you will make your project documentation and attitude toward community members welcoming and positive. This is a way to increase the number of contributions and increase diversity. 
+-->
+
 There are two resources I want to direct you to: 
 One is a survey by Eric Elliott of ~1000 developers to find out what makes some developers achieve 10x more results than others. Not all of the answers were code related. The results showed that developers that achieve 10x the results tend to be mentors/teachers and communicator/collaborators.
 The other resources I want to direct you to is a Open Source Survey completed by GitHub. Even though documentation is considered extremely useful, it is often missing.
@@ -1590,17 +1597,10 @@ http://opensourcesurvey.org/2017/#insights
 </td><td>
 
 
-<tr><td width="30%">
 
-![Slide 90](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_89.jpg)
 
-</td><td>
 
-### Communication Strategy
 
-I hope that you will make your project documentation and attitude toward community members welcoming and positive. This is a way to increase the number of contributions and increase diversity. 
-
-</td><td>
 
 
 <tr><td width="30%">
@@ -1841,7 +1841,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 Feel free to contact me. If you make progress based on my talk, I'd love to know. Send me a note if you get the chance.
 
 Useful Resources: 
-https://git.io/v5kpy
+https://git.io/v5WMG
 
 * Twitter handle: @KatiMichel
 * GitHub username: KatherineMichel
