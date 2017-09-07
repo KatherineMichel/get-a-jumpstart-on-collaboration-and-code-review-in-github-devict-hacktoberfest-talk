@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [GitHub and Git Installation Instructions](#github-and-git-installation-instructions)
+- [Important devICT Hacktoberfest Links](#important-webcast-links)
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
 - [Slides and Script](#slides-and-script)
 - [Useful Resources](#useful-resources)
@@ -40,6 +41,12 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 <hr>
 
 ### GitHub and Git Installation Instructions
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
+## Important devICT Hacktoberfest Links
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
