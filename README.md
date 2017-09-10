@@ -84,8 +84,6 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Forked Repo](#forked-repo)
 - [Exceptions](#exceptions)
 - [User Account Shared Repo Disadvantage](#user-account-shared-repo-disadvantage)
-
-
 - [Section 2](#section-2)
 - [Fork and Pull Model](#fork-and-pull-model)
 - [Shared Repository Model](#shared-repository-model)
@@ -113,15 +111,14 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Tidy Up](#tidy-up)
 - [Advanced Topics](#advanced-topics)
 - [Section 4](#section-4)
-- [Practical Commands](#practical-commands)
 
-<!--
+
 - [Common Branch Commands](#common-branch-commands)
 - [Inactive Pull Requests](#inactive-pull-requests)
 - [Adding a Remote Upstream and Syncing a Fork](#adding-a-remote-upstream-and-syncing-a-fork)
 - [Common Push and Pull Commands](#common-push-and-pull-commands)
 - [Syncing Branches to Keep Them Up-to-Date](#syncing-branches-to-keep-them-up-to-date)
--->
+
 
 - [GitHub Flow](#github-flow)
 - [Another Workflow](#another-workflow)
@@ -1392,6 +1389,7 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 </td></tr>
 
 
+
 <tr><td width="30%">
 
 ![Slide 00]()
@@ -1493,7 +1491,9 @@ I’m not really covering these, but it’s good to be aware of them if you want
 </td><td>
 
 
-
+<!--
+- [Common Branch Commands](#common-branch-commands)
+-->
 
 <tr><td width="30%">
 
@@ -1507,6 +1507,11 @@ A few minutes ago, I talked about how it’s impractical to go into a file and m
 
 </td></tr>
 
+<!--
+- [Adding a Remote Upstream and Syncing a Fork](#adding-a-remote-upstream-and-syncing-a-fork)
+- [Common Push and Pull Commands](#common-push-and-pull-commands)
+- [Syncing Branches to Keep Them Up-to-Date](#syncing-branches-to-keep-them-up-to-date)
+-->
 
 
 <tr><td width="30%">
