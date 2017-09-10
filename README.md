@@ -82,12 +82,10 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Write Permission and Collaboration Examples](#write-permission-and-collaboration-examples)
 - [How to Fork a Repo](#how-to-fork-a-repo)
 - [Forked Repo](#forked-repo)
-<!--
-- [Interesting Thing #1: Opposites](#interesting-thing-1-opposites)
-- [Interesting Thing #2: User Account Shared Repo Disadvantage](#interesting-thing-2-user-account-shared-repo-disadvantage)
-- [Interesting Thing #3: Write Permission Examples](#interesting-thing-3-write-permission-examples)
-- [Interesting Thing #4: Inactive Pull Requests](#interesting-thing-4-inactive-pull-requests)
--->
+- [Exceptions](#exceptions)
+- [User Account Shared Repo Disadvantage](#user-account-shared-repo-disadvantage)
+
+
 - [Section 2](#section-2)
 - [Fork and Pull Model](#fork-and-pull-model)
 - [Shared Repository Model](#shared-repository-model)
@@ -109,12 +107,8 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Pull Request Review Options](#pull-request-review-options)
 - [Pull Request Branches](#pull-request-branches)
 - [Pull Request Review](#pull-request-review)
-
-<!--
-Adding and Committing
-Pushing Additional Commits
--->
-
+- [Common Adding and Committing Commands](#common-adding-and-committing-commands)
+- [Pushing Additional Commits](#pushing-additional-commits)
 - [Merging](#merging)
 - [Tidy Up](#tidy-up)
 - [Advanced Topics](#advanced-topics)
@@ -122,11 +116,11 @@ Pushing Additional Commits
 - [Practical Commands](#practical-commands)
 
 <!--
-Common Branch Commands
-Common Adding and Committing Commands
-### Adding a Remote Upstream and Syncing a Fork
-### Common Push and Pull Commands
-### Syncing Branches to Keep Them Up-to-Date
+- [Common Branch Commands](#common-branch-commands)
+- [Inactive Pull Requests](#inactive-pull-requests)
+- [Adding a Remote Upstream and Syncing a Fork](#adding-a-remote-upstream-and-syncing-a-fork)
+- [Common Push and Pull Commands](#common-push-and-pull-commands)
+- [Syncing Branches to Keep Them Up-to-Date](#syncing-branches-to-keep-them-up-to-date)
 -->
 
 - [GitHub Flow](#github-flow)
@@ -817,14 +811,16 @@ There will be a message notifying you that it is being forked.
 </td></tr>
 
 
-<!--
+
+
+
 <tr><td width="30%">
 
-![Slide 42](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_42.jpg)
+![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_42.jpg)
 
 </td><td>
 
-### Interesting Thing #1: Opposites
+### Exceptions
 
 It’s typical that a shared repository will be found in an organization and a fork will be found in a user account. However, it can be the other way around, it’s just not nearly as common. A repo can be forked into an organization account and user account owner can make a user account repo a shared repo by inviting other users to be collaborators on the repo. 
 
@@ -835,45 +831,17 @@ It’s typical that a shared repository will be found in an organization and a f
 
 <tr><td width="30%">
 
-![Slide 44](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_43.jpg)
+![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_43.jpg)
 
 </td><td>
 
-### Interesting Thing #2: User Account Shared Repo Disadvantage
+### User Account Shared Repo Disadvantage
 
 * Organization account owners can create teams and permissions across multiple repos
 * Otherwise, the repo “Shared Repository” settings are almost exactly the same. Teams and permissions are at an organization level.
 
 </td></tr>
 
-
-<tr><td width="30%">
-
-![Slide 45](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_44.jpg)
-
-</td><td>
-
-### Interesting Thing #3: Write Permission Examples
-
-* Organization account maintainer (an organizational account owner can give you write permission to one or more repos)
-* User account owner (sources and forks, which is why you fork if you do not have write permission to shared repo)
-* User account collaborator (a user account owner has given you write permission to one of their personal repos)
-
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 46](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
-
-</td><td>
-
-### Interesting Thing #4: Inactive Pull Requests
-
-A few minutes ago, I talked about how it’s impractical to go into a file and make changes directly if you are working with multiple people and that it’s better to use branches. If you fork a repo, you also want to use branches. Say for instance, you make a change in the file and submit a pull request (without using a branch), you’re stuck waiting for the pull request to be resolved. Normally, you want your main branch to stay up-to-date so that you create new feature branches, but you’ve made a change in your main branch. If you delete the fork and refork to make it up to date, the pull request remains, but is inactive. It will be harder for the maintainer and you to work on. Instead, you want to keep the main branch up-to-date and use branches, just like we talked about a few minutes ago. 
-
-</td></tr>
--->
 
 
 
@@ -1426,6 +1394,29 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 
 <tr><td width="30%">
 
+![Slide 00]()
+
+</td><td>
+
+### Common Adding and Committing Commands
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Pushing Additional Commits
+
+</td></tr>
+
+
+
+<tr><td width="30%">
+
 ![Slide 80](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_79.jpg)
 
 </td><td>
@@ -1502,17 +1493,20 @@ I’m not really covering these, but it’s good to be aware of them if you want
 </td><td>
 
 
+
+
 <tr><td width="30%">
 
-![Slide 84](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_83.jpg)
+![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
 
 </td><td>
 
-### Practical Commands
+### Inactive Pull Requests
 
-https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote#useful-resources
+A few minutes ago, I talked about how it’s impractical to go into a file and make changes directly if you are working with multiple people and that it’s better to use branches. If you fork a repo, you also want to use branches. Say for instance, you make a change in the file and submit a pull request (without using a branch), you’re stuck waiting for the pull request to be resolved. Normally, you want your main branch to stay up-to-date so that you create new feature branches, but you’ve made a change in your main branch. If you delete the fork and refork to make it up to date, the pull request remains, but is inactive. It will be harder for the maintainer and you to work on. Instead, you want to keep the main branch up-to-date and use branches, just like we talked about a few minutes ago. 
 
-</td><td>
+</td></tr>
+
 
 
 <tr><td width="30%">
