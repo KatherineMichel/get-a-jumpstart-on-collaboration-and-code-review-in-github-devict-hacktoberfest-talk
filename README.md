@@ -121,7 +121,6 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Learn More About Workflow](#learn-more-about-workflow)
 - [Section 5](#section-5)
 - [Getting to 10x Results](#getting-to-10x-results)
-
 - [Documentation](#documentation)
 - [Templates](#templates)
 - [Communication Forums](#communication-forums)
@@ -131,9 +130,8 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 - [Productivity Helpers](#productivity-helpers)
 - [Triaging](#triaging)
 - [Sandboxing](#sandboxing)
-- [Go For It!](#go-for-it)
-- [Section 7](#section-7)
 - [Debunking Myths](#debunking-myths)
+- [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
 
 <!--
@@ -1485,9 +1483,16 @@ I’m not really covering these, but it’s good to be aware of them if you want
 </td><td>
 
 
-<!--
-- [Common Branch Commands](#common-branch-commands)
--->
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Common Branch Commands
+
+</td></tr>
+
 
 <tr><td width="30%">
 
@@ -1501,11 +1506,38 @@ A few minutes ago, I talked about how it’s impractical to go into a file and m
 
 </td></tr>
 
-<!--
-- [Adding a Remote Upstream and Syncing a Fork](#adding-a-remote-upstream-and-syncing-a-fork)
-- [Common Push and Pull Commands](#common-push-and-pull-commands)
-- [Syncing Branches to Keep Them Up-to-Date](#syncing-branches-to-keep-them-up-to-date)
--->
+
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Adding a Remote Upstream and Syncing a Fork
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Common Push and Pull Commands
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Syncing Branches to Keep Them Up-to-Date
+
+</td></tr>
 
 
 <tr><td width="30%">
@@ -1570,8 +1602,6 @@ https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmf
 * People, communication, documentation
 
 </td><td>
-
-
 
 
 <tr><td width="30%">
@@ -1807,25 +1837,6 @@ I recommend that you be good to yourself.
 
 My last but not least recommendation is that you become a contributor to the DjangoCon US website next year 
 * We have a diverse group of contributors of all skill levels and we are always looking for more contributors. Let us know if you are interested.  
-
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 102](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_101.jpg)
-
-</td><td>
-
-### Section 7
-
-* Determine which collaboration approach to use (there are two)
-* Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
-* Review the two different types of pull requests as a DjangoCon US website repo maintainer
-* Additional workflow and command info
-* People, communication, documentation
-* Recommendations
-* Simulation exercise
 
 </td></tr>
 
