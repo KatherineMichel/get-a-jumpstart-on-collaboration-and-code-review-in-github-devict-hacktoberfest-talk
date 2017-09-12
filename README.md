@@ -31,9 +31,9 @@
 
 ## About
 
-Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give for [devICT](), Thursday, September 28, 2017
-7:00 p.m.
-
+Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give for [devICT](https://devict.org), Thursday, September 28, 2017
+at 7:00 p.m. CST at the [Labor Party](http://labor-party.com).
+ 
 * ["devICT Presents: Get a Jumpstart on Collaboration and Code Review in GitHub"](https://www.meetup.com/devict/events/243303338)
 
 <!--
