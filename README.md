@@ -31,10 +31,14 @@
 
 ## About
 
-Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give for [devICT]().
+Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give for [devICT](), Thursday, September 28, 2017
+7:00 p.m.
 
-* Coming soon!
-* Coming soon!
+* ["devICT Presents: Get a Jumpstart on Collaboration and Code Review in GitHub"](https://www.meetup.com/devict/events/243303338)
+
+<!--
+Livestream/video link?
+-->
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -47,6 +51,8 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 <hr>
 
 ## Important devICT Hacktoberfest Links
+
+* [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
