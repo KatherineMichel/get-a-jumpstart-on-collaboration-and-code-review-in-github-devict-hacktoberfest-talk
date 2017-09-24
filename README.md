@@ -277,7 +277,7 @@ That was me. I became very determined to contribute and submitted my first pull 
 I kept using Git and GitHub and getting better at it. I eventually became a DjangoCon US website contributor in 2016, then became the Website Chair and maintainer in 2017. 
 * I am going to use DjangoCon US website as an example throughout this talk. 
 
-However, the process I'm going to be telling you about can also be applied to the repos you can contribute to for Wichita Hacktoberfest and I'm going to be referring to that through to make sure that is clear. 
+However, the process I'm going to be telling you about can also be applied to the repos you can contribute to for Wichita Hacktoberfest. 
 
 </td></tr>
 
@@ -1091,12 +1091,9 @@ Let's go back to the screenshot of my local development environment.
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
-![Slide 67](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_66.jpg)
+![Slide 61](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_66.jpg)
 
 </td><td>
 
@@ -1111,7 +1108,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 68](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_67.jpg)
+![Slide 62](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_67.jpg)
 
 </td><td>
 
@@ -1124,7 +1121,7 @@ There will now be a new branch in the repo that is your origin and a message tel
 
 <tr><td width="30%">
 
-![Slide 69](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_68.jpg)
+![Slide 63](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_68.jpg)
 
 </td><td>
 
@@ -1139,7 +1136,7 @@ You can toggle back and forth between the branches by clicking on the branches i
 
 <tr><td width="30%">
 
-![Slide 70](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_69.jpg)
+![Slide 64](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_69.jpg)
 
 </td><td>
 
@@ -1152,7 +1149,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 71](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_70.jpg)
+![Slide 65](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_70.jpg)
 
 </td><td>
 
@@ -1172,7 +1169,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 72](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_71.jpg)
+![Slide 66](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_71.jpg)
 
 </td><td>
 
@@ -1187,7 +1184,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 73](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_72.jpg)
+![Slide 67](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_72.jpg)
 
 </td><td>
 
@@ -1202,7 +1199,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 74](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_73.jpg)
+![Slide 68](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_73.jpg)
 
 </td><td>
 
@@ -1219,7 +1216,7 @@ Underneath that will be info about how to merge the pull request.
 
 <tr><td width="30%">
 
-![Slide 75](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_74.jpg)
+![Slide 69](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_74.jpg)
 
 </td><td>
 
@@ -1234,7 +1231,7 @@ I will go over that in a minute.
 
 <tr><td width="30%">
 
-![Slide 76](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_75.jpg)
+![Slide 70](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_75.jpg)
 
 </td><td>
 
@@ -1247,6 +1244,8 @@ The first two options involve clicking the merge button in GitHub without runnin
 * You look at the pull request changes. Something needs to be changed, but you can change it in GitHub. So you edit the pull request file in the browser, similarly to how we edited a file earlier, and click merge.
 
 </td></tr>
+
+
 
 
 <tr><td width="30%">
