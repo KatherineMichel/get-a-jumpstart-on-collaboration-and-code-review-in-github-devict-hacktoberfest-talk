@@ -1287,8 +1287,6 @@ This is why the pull request instructions are different.
 
 
 
-
-
 <tr><td width="30%">
 
 ![Slide 79](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_78.jpg)
@@ -1299,6 +1297,7 @@ This is why the pull request instructions are different.
 
 * The instructions on this slide can actually be used by any maintainer to work on any branch they have write permission to.  
 * If a pull request has already been made, the additional commits will be automatically added to the pull request, up to the point that the pull request is merged.
+
 * For a shared repository pull request, we use the command $ git fetch origin to fetch the updates into the .git folder. We create and checkout to a new local branch, which we give a name to, and we insert the pull request branch contents from the .git folder into the new local branch by referring to the branch as origin/<branch-name>. We can merge master to make sure the branch is up-to-date. If we make a change, we can push additional commits to the branch on GitHub. 
 
 ```bash
@@ -1326,26 +1325,9 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 
 
 
-<tr><td width="30%">
-
-![Slide 00]()
-
-</td><td>
-
-### Common Adding and Committing Commands
-
-</td></tr>
 
 
-<tr><td width="30%">
 
-![Slide 00]()
-
-</td><td>
-
-### Pushing Additional Commits
-
-</td></tr>
 
 
 
@@ -1458,6 +1440,30 @@ A few minutes ago, I talked about how it’s impractical to go into a file and m
 </td><td>
 
 ### Adding a Remote Upstream and Syncing a Fork
+
+</td></tr>
+
+
+
+
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Common Adding and Committing Commands
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 00]()
+
+</td><td>
+
+### Pushing Additional Commits
 
 </td></tr>
 
