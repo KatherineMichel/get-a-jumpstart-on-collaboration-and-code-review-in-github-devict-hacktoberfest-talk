@@ -1246,11 +1246,9 @@ The first two options involve clicking the merge button in GitHub without runnin
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
-![Slide 77](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_76.jpg)
+![Slide 71](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_76.jpg)
 
 </td><td>
 
@@ -1271,7 +1269,7 @@ If a change needs to be made, you can
 
 <tr><td width="30%">
 
-![Slide 78](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_77.jpg)
+![Slide 72](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_77.jpg)
 
 </td><td>
 
@@ -1285,11 +1283,9 @@ This is why the pull request instructions are different.
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
-![Slide 79](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_78.jpg)
+![Slide 73](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_78.jpg)
 
 </td><td>
 
@@ -1302,7 +1298,7 @@ This is why the pull request instructions are different.
 
 ```bash
 $ git fetch origin
-$ git checkout -b <local-branch-name> origin/<branch-name>
+$ git checkout -b <branch-name> origin/<branch-name>
 $ git merge master
 ```
 
@@ -1313,7 +1309,7 @@ $ git push origin <branch-name>
 * For a pull request submitted through a fork, we create a new branch off master and pull in the contents of the pull request branch from the fork. If we make a change, we can also push additional commits if we have been given permission to edit the pull request. 
 
 ```bash
-$ git checkout -b <local-branch-name> master
+$ git checkout -b <branch-name> master
 $ git pull https://github.com/<user-name>/<repo-name> <branch-name>
 ```
 
