@@ -925,16 +925,28 @@ A couple useful things to know
 * <variable> is a placeholder for the real thing
 
 Go to the home directory
+
+```bash
 $ cd
+```
 
 Change directory
+
+```bash
 $ cd <directory-name>
+```
 
 Move back a directory
+
+```bash
 $ cd ..
+```
 
 List the folders and files in a directory
+
+```bash
 $ ls
+```
 
 </td></tr>
 
@@ -1320,16 +1332,9 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 </td></tr>
 
 
-
-
-
-
-
-
-
 <tr><td width="30%">
 
-![Slide 80](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_79.jpg)
+![Slide 74](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_79.jpg)
 
 </td><td>
 
@@ -1350,7 +1355,7 @@ $ git push origin master
 
 <tr><td width="30%">
 
-![Slide 81](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_80.jpg)
+![Slide 75](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_80.jpg)
 
 </td><td>
 
@@ -1359,20 +1364,29 @@ $ git push origin master
 After a pull request is closed, it’s good practice to delete the feature branch in the browser and locally. There will be a button on the pull request page that you can use to delete the feature branch in the browser, or you can delete it in the branches tab. Or, you can use the third command. The first two commands are to delete the branch locally. 
 
 Delete local branch
+
+```bash
 $ git branch -d <branch-name>
+```
 
 Force delete local branch
+
+```bash
 $ git branch -D <branch-name>
+```
 
 Delete remote branch (instead of deleting directly through browser)
+
+```bash
 $ git push <remote-name> :<branch-name>
+```
 
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 82](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_81.jpg)
+![Slide 76](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_81.jpg)
 
 </td><td>
 
@@ -1391,7 +1405,7 @@ I’m not really covering these, but it’s good to be aware of them if you want
 
 <tr><td width="30%">
 
-![Slide 83](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_82.jpg)
+![Slide 77](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_82.jpg)
 
 </td><td>
 
@@ -1400,9 +1414,12 @@ I’m not really covering these, but it’s good to be aware of them if you want
 * Determine which collaboration approach to use (there are two)
 * Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
 * Review the two different types of pull requests as a DjangoCon US website repo maintainer
-* Additional workflow and command info 
+* Practical commands and additional workflow info
 
 </td><td>
+
+
+
 
 
 <tr><td width="30%">
