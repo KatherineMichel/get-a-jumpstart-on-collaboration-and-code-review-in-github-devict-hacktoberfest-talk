@@ -1419,37 +1419,64 @@ I’m not really covering these, but it’s good to be aware of them if you want
 </td><td>
 
 
-
-
-
-
 <tr><td width="30%">
 
-![Slide 00]()
+![Slide 78]()
 
 </td><td>
 
 ### Common Adding and Committing Commands
 
+Any time you make a change to a file locally, you need to add and commit the change to git version. For instance, if you create a branch and make a change, or if you are a reviewing a pull request and make a change. Here are a couple ways to do that. There are other variations. Check out the docs.
+
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 78](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
+![Slide 79](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
 
 </td><td>
 
-### Inactive Pull Requests
+### Manual Updates
 
-A few minutes ago, I talked about how it’s impractical to go into a file and make changes directly if you are working with multiple people and that it’s better to use branches. If you fork a repo, you also want to use branches. Say for instance, you make a change in the file and submit a pull request (without using a branch), you’re stuck waiting for the pull request to be resolved. Normally, you want your main branch to stay up-to-date so that you create new feature branches, but you’ve made a change in your main branch. If you delete the fork and refork to make it up to date, the pull request remains, but is inactive. It will be harder for the maintainer and you to work on. Instead, you want to keep the main branch up-to-date and use branches, just like we talked about a few minutes ago. 
+When you make an update somewhere, the code doesn’t automatically update elsewhere. For example, if a change is made in the DjangoCon U.S. repo master branch, a fork or clone master branch is not automatically updated. In the case of a fork, you could delete the fork and re-fork it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on. This is also another reason why it’s good to use branches (so that you can keep the main branch up-to-date and use branches to work on more than one feature while a pull request is pending). 
 
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 00]()
+![Slide 80]()
+
+</td><td>
+
+### Syncing a Forked Repo Clone
+
+The fork automatically become the remote origin when the repo was cloned locally. When can add an additional remote which is commonly known as upstream. We can then fetch and merge or pull updates from the upstream and then push them to the remote origin (fork). 
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 81]()
+
+</td><td>
+
+### Syncing a Shared Repo Clone
+
+If you have write access to the shared repo, you do not need a fork, you can fetch and merge or pull updates from the remote origin (shared repo) to the local clone and push updates to the remote origin (shared repo). 
+
+</td></tr>
+
+
+
+
+
+<tr><td width="30%">
+
+![Slide 80]()
 
 </td><td>
 
