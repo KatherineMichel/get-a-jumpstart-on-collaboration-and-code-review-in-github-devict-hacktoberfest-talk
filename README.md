@@ -1046,12 +1046,9 @@ Let's go back to the screenshot of my local development environment.
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
-![Slide 64](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_63.jpg)
+![Slide 58](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_63.jpg)
 
 </td><td>
 
@@ -1066,7 +1063,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 65](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_64.jpg)
+![Slide 59](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_64.jpg)
 
 </td><td>
 
@@ -1081,7 +1078,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 66](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_65.jpg)
+![Slide 60](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_65.jpg)
 
 </td><td>
 
@@ -1092,6 +1089,9 @@ Let's go back to the screenshot of my local development environment.
 * Add and commit our change to git version control, create a message "Creating branch and updating"
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">
