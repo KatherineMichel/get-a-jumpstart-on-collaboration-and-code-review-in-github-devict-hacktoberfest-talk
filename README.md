@@ -279,6 +279,8 @@ That was me. I became very determined to contribute and submitted my first pull 
 I kept using Git and GitHub and getting better at it. I eventually became a DjangoCon US website contributor in 2016, then became the Website Chair and maintainer in 2017. 
 * I am going to use DjangoCon US website as an example throughout this talk. 
 
+However, the process I'm going to be telling you about can also be applied to the repos you can contribute to for Wichita Hacktoberfest and I'm going to be referring to that through to make sure that is clear. 
+
 </td></tr>
 
 
@@ -563,8 +565,6 @@ Let's go back to the screenshot of editing a file in GitHub.
 
 There is a radial button you can choose to indicate you want to create a new branch. There is also a place to give the branch a new name. When you click to save the changes, they will not save in the current file. Instead, a new branch will be created. 
 
-You can also create and work on branches through the command line in your local development environment, which I will show you later. 
-
 </td></tr>
 
 
@@ -778,44 +778,9 @@ There will be a message notifying you that it is being forked.
 </td></tr>
 
 
-
-
-
-
 <tr><td width="30%">
 
-![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_42.jpg)
-
-</td><td>
-
-### Exceptions
-
-It’s typical that a shared repository will be found in an organization and a fork will be found in a user account. However, it can be the other way around, it’s just not nearly as common. A repo can be forked into an organization account and user account owner can make a user account repo a shared repo by inviting other users to be collaborators on the repo. 
-
-* But there are a few advantages to using a organizational repo as a shared repository instead of an user account repo. 
-
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_43.jpg)
-
-</td><td>
-
-### User Account Shared Repo Disadvantage
-
-* Organization account owners can create teams and permissions across multiple repos
-* Otherwise, the repo “Shared Repository” settings are almost exactly the same. Teams and permissions are at an organization level.
-
-</td></tr>
-
-
-
-
-<tr><td width="30%">
-
-![Slide 47](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_46.jpg)
+![Slide 41](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_46.jpg)
 
 </td><td>
 
@@ -829,7 +794,7 @@ It’s typical that a shared repository will be found in an organization and a f
 
 <tr><td width="30%">
 
-![Slide 48](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_47.jpg)
+![Slide 42](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_47.jpg)
 
 </td><td>
 
@@ -842,7 +807,7 @@ I've made a couple of diagrams that I hope will give you an idea of what the pro
 
 <tr><td width="30%">
 
-![Slide 49](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_48.jpg)
+![Slide 43](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_48.jpg)
 
 </td><td>
 
@@ -857,7 +822,7 @@ I've made a couple of diagrams that I hope will give you an idea of what the pro
 
 <tr><td width="30%">
 
-![Slide 50](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_49.jpg)
+![Slide 44](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_49.jpg)
 
 </td><td>
 
@@ -874,7 +839,7 @@ Git will track some details about the project, for instance, where we cloned our
 
 <tr><td width="30%">
 
-![Slide 51](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_50.jpg)
+![Slide 45](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_50.jpg)
 
 </td><td>
 
@@ -889,7 +854,7 @@ Git will track some details about the project, for instance, where we cloned our
 
 <tr><td width="30%">
 
-![Slide 52](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_51.jpg)
+![Slide 46](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_51.jpg)
 
 </td><td>
 
@@ -904,7 +869,7 @@ Git will track some details about the project, for instance, where we cloned our
 
 <tr><td width="30%">
 
-![Slide 53](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_52.jpg)
+![Slide 47](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_52.jpg)
 
 </td><td>
 
@@ -917,7 +882,7 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 <tr><td width="30%">
 
-![Slide 54](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_53.jpg)
+![Slide 48](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_53.jpg)
 
 </td><td>
 
@@ -933,7 +898,7 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 <tr><td width="30%">
 
-![Slide 55](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_54.jpg)
+![Slide 49](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_54.jpg)
 
 </td><td>
 
@@ -945,6 +910,9 @@ Here's what it looks like when we use the "Shared Repository" Model
 * Submit the pull request
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">
