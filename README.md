@@ -1422,20 +1422,21 @@ I’m not really covering these, but it’s good to be aware of them if you want
 
 
 
+
 <tr><td width="30%">
 
 ![Slide 00]()
 
 </td><td>
 
-### Common Branch Commands
+### Common Adding and Committing Commands
 
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 00](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
+![Slide 78](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
 
 </td><td>
 
@@ -1453,30 +1454,6 @@ A few minutes ago, I talked about how it’s impractical to go into a file and m
 </td><td>
 
 ### Adding a Remote Upstream and Syncing a Fork
-
-</td></tr>
-
-
-
-
-<tr><td width="30%">
-
-![Slide 00]()
-
-</td><td>
-
-### Common Adding and Committing Commands
-
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 00]()
-
-</td><td>
-
-### Pushing Additional Commits
 
 </td></tr>
 
@@ -1548,6 +1525,17 @@ http://nvie.com/posts/a-successful-git-branching-model
 https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful
 
 </td><td>
+
+
+<tr><td width="30%">
+
+![Slide 78]()
+
+</td><td>
+
+### Common Branch Commands
+
+</td></tr>
 
 
 <tr><td width="30%">
