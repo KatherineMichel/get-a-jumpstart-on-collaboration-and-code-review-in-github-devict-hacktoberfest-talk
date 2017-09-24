@@ -88,8 +88,6 @@ Livestream/video link?
 - [Write Permission and Collaboration Examples](#write-permission-and-collaboration-examples)
 - [How to Fork a Repo](#how-to-fork-a-repo)
 - [Forked Repo](#forked-repo)
-- [Exceptions](#exceptions)
-- [User Account Shared Repo Disadvantage](#user-account-shared-repo-disadvantage)
 - [Section 2](#section-2)
 - [Fork and Pull Model](#fork-and-pull-model)
 - [Shared Repository Model](#shared-repository-model)
@@ -912,12 +910,9 @@ Here's what it looks like when we use the "Shared Repository" Model
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
-![Slide 56](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_55.jpg)
+![Slide 50](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_55.jpg)
 
 </td><td>
 
@@ -946,7 +941,7 @@ $ ls
 
 <tr><td width="30%">
 
-![Slide 57](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_56.jpg)
+![Slide 51](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_56.jpg)
 
 </td><td>
 
@@ -962,7 +957,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 58](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_57.jpg)
+![Slide 52](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_57.jpg)
 
 </td><td>
 
@@ -977,7 +972,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 59](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_58.jpg)
+![Slide 53](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_58.jpg)
 
 </td><td>
 
@@ -993,7 +988,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 60](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_59.jpg)
+![Slide 54](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_59.jpg)
 
 </td><td>
 
@@ -1008,7 +1003,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 61](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_60.jpg)
+![Slide 55](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_60.jpg)
 
 </td><td>
 
@@ -1023,7 +1018,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 62](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_61.jpg)
+![Slide 56](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_61.jpg)
 
 </td><td>
 
@@ -1038,7 +1033,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 63](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_62.jpg)
+![Slide 57](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_62.jpg)
 
 </td><td>
 
@@ -1049,6 +1044,9 @@ Let's go back to the screenshot of my local development environment.
 * Use the command $ git branch to verify which branch you are checked out on; initially, you will be checkout out on the default branch (in this case master)
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">
