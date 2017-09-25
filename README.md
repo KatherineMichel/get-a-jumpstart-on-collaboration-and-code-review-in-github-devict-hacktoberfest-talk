@@ -1453,6 +1453,17 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 
 </td><td>
 
+### Fetching Versus Pulling
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 81]()
+
+</td><td>
+
 ### Syncing a Forked Repo Clone
 
 In the case of a fork, you could delete the fork and re-fork it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on. 
@@ -1464,7 +1475,7 @@ Here is another way to update the fork. The fork automatically became the remote
 
 <tr><td width="30%">
 
-![Slide 81]()
+![Slide 82]()
 
 </td><td>
 
@@ -1475,59 +1486,52 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
-![Slide 82]()
+![Slide 83]()
 
 </td><td>
 
-### Fetching Versus Pulling
+### Adding a Remote Upstream
 
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 82]()
+![Slide 84]()
 
 </td><td>
 
-### Adding a Remote Upstream and Syncing a Fork
-
-</td></tr>
-
-
-
-
-
-
-<tr><td width="30%">
-
-![Slide 00]()
-
-</td><td>
-
-### Common Push and Pull Commands
+### Common Generic Syncing Commands
 
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 06]()
+![Slide 85]()
 
 </td><td>
 
-### Syncing Branches to Keep Them Up-to-Date
+### Common Syncing Scenarios
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 86]()
+
+</td><td>
+
+### Common Syncing Scenarios, Continued
 
 </td></tr>
 
 
 <!--
-Done below this, except 
+Done below this, except slide 90
 -->
 
 <tr><td width="30%">
