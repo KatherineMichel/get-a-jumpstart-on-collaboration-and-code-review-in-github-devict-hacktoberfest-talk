@@ -577,7 +577,6 @@ There is a radial button you can choose to indicate you want to create a new bra
 * Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
 * Review the two different types of pull requests as a DjangoCon US website repo maintainer
 * Practical commands and additional workflow info
-* People, communication, documentation
 * Recommendations
 
 </td><td>
@@ -1440,9 +1439,12 @@ Any time you make a change to a file locally, you need to add and commit the cha
 
 ### Manual Updates
 
-When you make an update somewhere, the code doesn’t automatically update elsewhere. For example, if a change is made in the DjangoCon U.S. repo master branch, a fork or clone master branch is not automatically updated. In the case of a fork, you could delete the fork and re-fork it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on. This is also another reason why it’s good to use branches (so that you can keep the main branch up-to-date and use branches to work on more than one feature while a pull request is pending). 
+When you make an update somewhere, the code doesn’t automatically update elsewhere. For example, if a change is made in the DjangoCon U.S. repo master branch, a fork or clone master branch is not automatically updated. 
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">
@@ -1453,7 +1455,9 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 
 ### Syncing a Forked Repo Clone
 
-The fork automatically become the remote origin when the repo was cloned locally. When can add an additional remote which is commonly known as upstream. We can then fetch and merge or pull updates from the upstream and then push them to the remote origin (fork). 
+In the case of a fork, you could delete the fork and re-fork it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on. 
+
+Here is another way to update the fork. The fork automatically became the remote origin when the repo was cloned locally. We can add an additional remote to the shared repo, which is commonly called upstream in this situation. We can then fetch and merge or pull updates from the upstream and then push them to the remote origin (fork). 
 
 </td></tr>
 
@@ -1513,7 +1517,7 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 <tr><td width="30%">
 
-![Slide 00]()
+![Slide 06]()
 
 </td><td>
 
@@ -1522,9 +1526,13 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 </td></tr>
 
 
+<!--
+Done below this, except 
+-->
+
 <tr><td width="30%">
 
-![Slide 85](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_84.jpg)
+![Slide 87](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_84.jpg)
 
 </td><td>
 
@@ -1537,7 +1545,7 @@ The workflow we have been using is basically GitHub Flow. It consists of merging
 
 <tr><td width="30%">
 
-![Slide 86](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_85.jpg)
+![Slide 88](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_85.jpg)
 
 </td><td>
 
@@ -1550,28 +1558,29 @@ Some projects use both a master and develop branch. For example, in a mission cr
 
 <tr><td width="30%">
 
-![Slide 87](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_86.jpg)
+![Slide 89](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_86.jpg)
 
 </td><td>
 
 ### Learn More About Workflow
 
 Some developers have passionate views about workflow (see comment threads in some posts). Sometimes people ask, “Which is the best workflow?” There is not really a “best” workflow. You should use the workflow that fits what you are trying to accomplish. They all have pros and cons. 
-* Git Flow (basically, what we’ve been using)
+* GitHub Flow (basically, what we’ve been using)
 * A Successful Git Branching Model (more advanced)
 * A Successful Git Branching Model Considered Harmful (alternative view)
 * SemVer
 * See also: Atlassian and GitLab docs  (you can also find insights in the docs of other software built on top of Git)
 
-http://nvie.com/posts/a-successful-git-branching-model
-https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful
-
 </td><td>
 
 
+<!--
+Slide 90 is not done
+-->
+
 <tr><td width="30%">
 
-![Slide 78]()
+![Slide 90]()
 
 </td><td>
 
@@ -1582,7 +1591,7 @@ https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmf
 
 <tr><td width="30%">
 
-![Slide 88](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_87.jpg)
+![Slide 91](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_87.jpg)
 
 </td><td>
 
@@ -1591,117 +1600,39 @@ https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmf
 * Determine which collaboration approach to use (there are two)
 * Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
 * Review the two different types of pull requests as a DjangoCon US website repo maintainer
-* Additional workflow and command info
-* People, communication, documentation
+* Practical commands and additional workflow info
+* Recommendations
 
 </td><td>
 
 
 <tr><td width="30%">
 
-![Slide 89](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_88.jpg)
-
-</td><td>
-
-### Getting to 10x Results
-
-<!--
-### Communication Strategy
-I hope that you will make your project documentation and attitude toward community members welcoming and positive. This is a way to increase the number of contributions and increase diversity. 
--->
-
-There are two resources I want to direct you to: 
-One is a survey by Eric Elliott of ~1000 developers to find out what makes some developers achieve 10x more results than others. Not all of the answers were code related. The results showed that developers that achieve 10x the results tend to be mentors/teachers and communicator/collaborators.
-The other resources I want to direct you to is a Open Source Survey completed by GitHub. Even though documentation is considered extremely useful, it is often missing.
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-http://opensourcesurvey.org/2017/#insights
-
-</td><td>
-
-
-
-
-
-
-
-
-<tr><td width="30%">
-
-![Slide 91](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_90.jpg)
+![Slide 92](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_90.jpg)
 
 </td><td>
 
 ### Documentation
 
-I recommend that you go to the Useful Resources Section, follow the links to the DjangoCon US website repo documentation and read it. 
+I hope that you will make your project documentation and attitude toward community members welcoming and positive. This is a way to increase the number of contributions and increase diversity. You can go to the Useful Resources Section, follow the links to the DjangoCon US website repo documentation and use them as examples. Documentation is considered extremely useful, but is often missing.
 
 * README.md- gives general project information
 * LICENSE- tells you the legal terms under which you can contribute and use the code
 * CODE_OF_CONDUCT.md- a set of rules outlining the expectations and responsibilities of contributors 
 * CONTRIBUTING.md- gives info about contributing. 
 
-https://github.com/djangocon/2017.djangocon.us/blob/master/README.md
-https://github.com/djangocon/2017.djangocon.us/blob/master/LICENSE
-https://github.com/djangocon/2017.djangocon.us/blob/master/CODE_OF_CONDUCT.md
-https://github.com/djangocon/2017.djangocon.us/blob/master/CONTRIBUTING.md
-
 </td></tr>
 
 
 <tr><td width="30%">
 
-![Slide 92](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_91.jpg)
-
-</td><td>
-
-### Templates
-
-See the Simulation Exercise
-* ISSUE_TEMPLATE
-* PULL_REQUEST_TEMPLATE
-
-### Communication Forums
-
-* Wikis
-* GitHub Pages/Jekyll
-* Gists
-
-</td></tr>
-
-
-<!--
-Slides are done after this point
--->
-
-
-<tr><td width="30%">
-
-![Slide 95](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_93.jpg)
-
-</td><td>
-
-### Section 6
-
-* Determine which collaboration approach to use (there are two)
-* Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
-* Review the two different types of pull requests as a DjangoCon US website repo maintainer
-* Practical commands and additional workflow info
-* People, communication, documentation
-* Recommendations
-
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 96](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_94.jpg)
+![Slide 93](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_94.jpg)
 
 </td><td>
 
 ### Code Safety
 
-My first recommendation is that if you have the authority, go into a repo’s Settings, click the Branches tab
+If you have the authority, I recommend that you go into a repo’s Settings, click the Branches tab
 * Protect the main branch so it can’t be deleted (for example, your master branch)
 
 </td></tr>
@@ -1709,7 +1640,7 @@ My first recommendation is that if you have the authority, go into a repo’s Se
 
 <tr><td width="30%">
 
-![Slide 97](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_95.jpg)
+![Slide 94](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_95.jpg)
 
 </td><td>
 
@@ -1728,13 +1659,13 @@ Here are a few things you might want to do to keep your code safe
 
 <tr><td width="30%">
 
-![Slide 98](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_96.jpg)
+![Slide 95](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_96.jpg)
 
 </td><td>
 
 ### Productivity Helpers
 
-My second recommendation is to use productivity helpers
+Here are a few productivity helpers that I recommend:
 * Password caching
 * Closing issues via commit messages by using keywords
 * Saved replies
@@ -1745,7 +1676,7 @@ My second recommendation is to use productivity helpers
 
 <tr><td width="30%">
 
-![Slide 99](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_97.jpg)
+![Slide 96](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_97.jpg)
 
 </td><td>
 
@@ -1755,7 +1686,7 @@ Tips for getting started
 
 In the Useful Resources section there is an excellent checklist for evaluating a project and I recommend that you take a look at it. In general...
 
-My third recommendation is that when you are looking for a project to contribute to
+I recommend that when you are looking for a project to contribute to:
 * Search by tag to find projects that use triaging. Triaging is where issues are sorted by difficulty level
 * As a collaborator or code reviewer, you can cherry-pick issues and pull requests that fit your skill level
 
@@ -1764,7 +1695,7 @@ My third recommendation is that when you are looking for a project to contribute
 
 <tr><td width="30%">
 
-![Slide 100](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_98.jpg)
+![Slide 97](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_98.jpg)
 
 </td><td>
 
@@ -1772,7 +1703,7 @@ My third recommendation is that when you are looking for a project to contribute
 
 Tips for getting started
 
-My fourth recommendation is that you 
+I recommend that you: 
 * Practice your skills and workflow. Don't be afraid to delete and start over
 * You can use your own user account as a sandbox. You can submit pull requests to yourself to practice.
 
@@ -1781,11 +1712,13 @@ My fourth recommendation is that you
 
 <tr><td width="30%">
 
-![Slide 101](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
+![Slide 98](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
 
 </td><td>
 
 ### Getting Help
+
+I recommend that you use the help features that are available. 
 
 * Help via Git, GitHub Help and Guides  (links in Useful Resources Section)
 * Help via command line (exit by typing “q”)
@@ -1808,7 +1741,7 @@ $ man git-clone
 
 <tr><td width="30%">
 
-![Slide 102](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_99.jpg)
+![Slide 99](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_99.jpg)
 
 </td><td>
 
@@ -1836,7 +1769,7 @@ I recommend that you be good to yourself.
 
 <tr><td width="30%">
 
-![Slide 103](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_100.jpg)
+![Slide 100](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_100.jpg)
 
 </td><td>
 
@@ -1850,7 +1783,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 
 <tr><td width="30%">
 
-![Slide 104](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
+![Slide 101](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
 
 </td><td>
 
