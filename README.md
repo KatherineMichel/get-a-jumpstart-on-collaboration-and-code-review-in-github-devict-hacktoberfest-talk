@@ -1476,13 +1476,114 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 <tr><td width="30%">
 
-![Slide 80]()
+![Slide 82]()
+
+</td><td>
+
+### Fetching Versus Pulling
+
+</td></tr>
+
+
+<tr><td width="30%">
+
+![Slide 82]()
 
 </td><td>
 
 ### Adding a Remote Upstream and Syncing a Fork
 
 </td></tr>
+
+
+
+
+
+
+### Common Push and Pull Commands
+
+```bash
+$ git checkout <branch-name>
+$ git pull <remote-name> <branch-name>
+$ git push <remote-name> <branch-name>
+```
+
+```bash
+$ git checkout <branch-name>
+$ git pull https://github.com/<user-name>/<repo-name> <branch-name>
+$ git push https://github.com/<user-name>/<repo-name> <branch-name>
+```
+
+```bash
+$ git fetch <remote-name>
+$ git checkout <branch-name>
+$ git merge <remote-name>/<branch-name>
+```
+
+Merge remote-tracking branch updates with branch you are currently checked out on
+
+
+Common pull and push example
+
+```bash
+$ git checkout master
+$ git pull origin master
+$ git push origin master
+```
+
+```bash
+$ git fetch origin
+$ git checkout master
+$ git merge origin/master
+```
+
+```bash
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+$ git push origin master
+```
+
+Example
+
+```bash
+$ git checkout example-branch
+$ git merge master
+```
+
+
+
+
+
+
+### Adding a Remote Upstream and Syncing a Fork
+
+When a shared repository is updated, the fork does not automatically update with the change. You could delete and re-fork the fork, but this is not practical, for instance, if you have a pull request pending. So, you can add the shared repository as a remote to your local clone, fetch the updates, and push them to your fork. 
+
+Add a remote
+
+```bash
+$ git remote add <remote-name> <remote-url>
+```
+
+Add 
+
+```bash
+$ git remote add upstream https://github.com/upstream-username/original-repository
+```
+
+Verify
+
+```bash
+$ git remote -v
+origin  https://github.com/your-username/your-fork (fetch)
+origin  https://github.com/your-username/your-fork (push)
+upstream  https://github.com/upstream-username/original-repository (fetch)
+upstream  https://github.com/upstream-username/original-repository (push)
+```
+
+
+
 
 
 <tr><td width="30%">
