@@ -1531,7 +1531,7 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 
 <!--
-Done below this, except slide 90
+Done below this
 -->
 
 <tr><td width="30%">
@@ -1578,10 +1578,6 @@ Some developers have passionate views about workflow (see comment threads in som
 </td><td>
 
 
-<!--
-Slide 90 is not done
--->
-
 <tr><td width="30%">
 
 ![Slide 90]()
@@ -1589,6 +1585,24 @@ Slide 90 is not done
 </td><td>
 
 ### Common Branch Commands
+
+Checkout (switch) to a branch that already exists (-b is not needed, because is used to create branch)
+
+```bash
+$ git checkout <branch-name>
+```
+
+Create and checkout (switch) to a branch (you are in the branch you are branching off of, or there is only one branch, so you do not need to specify which branch you are branching off of)
+
+```bash
+$ git checkout -b <branch-name>
+```
+
+Create and checkout (switch) to a branch (you are not in the branch you are branching off of)
+
+```bash
+$ git checkout -b <branch-name> <branch-branching-off-of>
+```
 
 </td></tr>
 
