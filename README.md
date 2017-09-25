@@ -1500,92 +1500,6 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 
 
-### Common Push and Pull Commands
-
-```bash
-$ git checkout <branch-name>
-$ git pull <remote-name> <branch-name>
-$ git push <remote-name> <branch-name>
-```
-
-```bash
-$ git checkout <branch-name>
-$ git pull https://github.com/<user-name>/<repo-name> <branch-name>
-$ git push https://github.com/<user-name>/<repo-name> <branch-name>
-```
-
-```bash
-$ git fetch <remote-name>
-$ git checkout <branch-name>
-$ git merge <remote-name>/<branch-name>
-```
-
-Merge remote-tracking branch updates with branch you are currently checked out on
-
-
-Common pull and push example
-
-```bash
-$ git checkout master
-$ git pull origin master
-$ git push origin master
-```
-
-```bash
-$ git fetch origin
-$ git checkout master
-$ git merge origin/master
-```
-
-```bash
-$ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
-$ git push origin master
-```
-
-Example
-
-```bash
-$ git checkout example-branch
-$ git merge master
-```
-
-
-
-
-
-
-### Adding a Remote Upstream and Syncing a Fork
-
-When a shared repository is updated, the fork does not automatically update with the change. You could delete and re-fork the fork, but this is not practical, for instance, if you have a pull request pending. So, you can add the shared repository as a remote to your local clone, fetch the updates, and push them to your fork. 
-
-Add a remote
-
-```bash
-$ git remote add <remote-name> <remote-url>
-```
-
-Add 
-
-```bash
-$ git remote add upstream https://github.com/upstream-username/original-repository
-```
-
-Verify
-
-```bash
-$ git remote -v
-origin  https://github.com/your-username/your-fork (fetch)
-origin  https://github.com/your-username/your-fork (push)
-upstream  https://github.com/upstream-username/original-repository (fetch)
-upstream  https://github.com/upstream-username/original-repository (push)
-```
-
-
-
-
-
 <tr><td width="30%">
 
 ![Slide 00]()
@@ -1747,15 +1661,6 @@ See the Simulation Exercise
 * ISSUE_TEMPLATE
 * PULL_REQUEST_TEMPLATE
 
-</td></tr>
-
-
-<tr><td width="30%">
-
-![Slide 93](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_92.jpg)
-
-</td><td>
-
 ### Communication Forums
 
 * Wikis
@@ -1765,9 +1670,14 @@ See the Simulation Exercise
 </td></tr>
 
 
+<!--
+Slides are done after this point
+-->
+
+
 <tr><td width="30%">
 
-![Slide 94](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_93.jpg)
+![Slide 95](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_93.jpg)
 
 </td><td>
 
@@ -1776,7 +1686,7 @@ See the Simulation Exercise
 * Determine which collaboration approach to use (there are two)
 * Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
 * Review the two different types of pull requests as a DjangoCon US website repo maintainer
-* Additional workflow and command info
+* Practical commands and additional workflow info
 * People, communication, documentation
 * Recommendations
 
@@ -1785,7 +1695,7 @@ See the Simulation Exercise
 
 <tr><td width="30%">
 
-![Slide 95](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_94.jpg)
+![Slide 96](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_94.jpg)
 
 </td><td>
 
@@ -1799,7 +1709,7 @@ My first recommendation is that if you have the authority, go into a repo’s Se
 
 <tr><td width="30%">
 
-![Slide 96](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_95.jpg)
+![Slide 97](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_95.jpg)
 
 </td><td>
 
@@ -1818,7 +1728,7 @@ Here are a few things you might want to do to keep your code safe
 
 <tr><td width="30%">
 
-![Slide 97](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_96.jpg)
+![Slide 98](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_96.jpg)
 
 </td><td>
 
@@ -1835,7 +1745,7 @@ My second recommendation is to use productivity helpers
 
 <tr><td width="30%">
 
-![Slide 98](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_97.jpg)
+![Slide 99](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_97.jpg)
 
 </td><td>
 
@@ -1854,7 +1764,7 @@ My third recommendation is that when you are looking for a project to contribute
 
 <tr><td width="30%">
 
-![Slide 99](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_98.jpg)
+![Slide 100](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_98.jpg)
 
 </td><td>
 
@@ -1869,11 +1779,9 @@ My fourth recommendation is that you
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
-![Slide 10](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
+![Slide 101](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
 
 </td><td>
 
@@ -1898,11 +1806,9 @@ $ man git-clone
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
-![Slide 100](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_99.jpg)
+![Slide 102](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_99.jpg)
 
 </td><td>
 
@@ -1927,19 +1833,10 @@ I recommend that you be good to yourself.
 
 </td></tr>
 
-<!--
-### I Don’t Want You to Be Like Me!
-
-* I wish I had taken on more responsibility sooner
-* For example, I thought that being a repo maintainer was for other people, and how it is done was a mystery to me
-* Once I became a maintainer, I learned as I went along. I made mistakes in front of people. I sometimes had to ask senior developers to explain things to me or spend time researching online. 
-* Fortunately, I have been a maintainer in an extremely supportive environment. 
-* I want all of you to benefit from my trial and error.
--->
 
 <tr><td width="30%">
 
-![Slide 101](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_100.jpg)
+![Slide 103](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_100.jpg)
 
 </td><td>
 
@@ -1953,7 +1850,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 
 <tr><td width="30%">
 
-![Slide 103](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
+![Slide 104](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
 
 </td><td>
 
@@ -1974,6 +1871,8 @@ https://git.io/v5WMG
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
+
+
 
 <!--
 ## Important Links
