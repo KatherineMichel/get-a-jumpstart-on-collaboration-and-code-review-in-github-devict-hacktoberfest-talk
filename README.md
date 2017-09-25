@@ -1426,7 +1426,7 @@ I’m not really covering these, but it’s good to be aware of them if you want
 
 ### Common Adding and Committing Commands
 
-Any time you make a change to a file locally, you need to add and commit the change to git version. For instance, if you create a branch and make a change, or if you are a reviewing a pull request and make a change. Here are a couple ways to do that. There are other variations. Check out the docs.
+Any time you make a change to a file locally, you need to add and commit the change to git version control. For instance, if you create a branch and make a change, or if you are a reviewing a pull request and make a change. Here are a couple ways to do that. There are other variations. Check out the docs.
 
 </td></tr>
 
