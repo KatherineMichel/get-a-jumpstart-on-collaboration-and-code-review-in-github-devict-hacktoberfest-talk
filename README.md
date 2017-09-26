@@ -120,7 +120,6 @@ Livestream/video link?
 - [Adding a Remote Upstream](#adding-a-remote-upstream)
 - [Syncing Commands](#syncing-commands)
 - [Common Syncing Scenarios](#common-syncing-scenarios)
-- [Syncing Branches to Keep Them Up-to-Date](#syncing-branches-to-keep-them-up-to-date)
 - [GitHub Flow](#github-flow)
 - [Another Workflow](#another-workflow)
 - [Learn More About Workflow](#learn-more-about-workflow)
@@ -1338,7 +1337,7 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 
 </td><td>
 
-### Merging
+### Merge Pull Request Locally and Push to Master Branch
 
 This piece of code is for merging a pull request locally and pushing to the master branch.  
 
@@ -1504,7 +1503,7 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 </td><td>
 
-### Common Generic Syncing Commands
+### Syncing Commands
 
 </td></tr>
 
@@ -1682,7 +1681,7 @@ Here are a few things you might want to do to keep your code safe
 
 </td><td>
 
-### Productivity Helpers
+### Productivity Tips
 
 Here are a few productivity helpers that I recommend:
 * Password caching
