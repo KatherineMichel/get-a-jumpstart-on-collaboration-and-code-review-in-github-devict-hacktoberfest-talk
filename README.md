@@ -136,25 +136,6 @@ Livestream/video link?
 - [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
 
-
-
-<!--
-### Bash
-### Avoiding Cloning Conflicts 
-### Local Development
-### Review Shared Repo Pull Request
-### Review Forked Repo Pull Request
-### Merge Pull Request Locally and Push to Master Branch
-### Alternatively, Fetch Individual Pull Request
-### Delete a Branch
-### Common Branch Commands
-### Common Add and Commit Commands
-### Common Push and Pull Commands
-### Fetch and Merge Versus Pull
-### Adding a Remote Upstream and Syncing a Fork
-### Syncing Branches to Keep Them Up-to-Date
--->
-
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
