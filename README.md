@@ -9,20 +9,20 @@
 - [Slides and Script](#slides-and-script)
 - [Useful Resources](#useful-resources)
     - [Links](#links)    
-    - [Bash](#bash)
-    - [Avoiding Cloning Conflicts](#avoiding-cloning-conflicts)    
-    - [Local Development](#local-development)
-    - [Review Shared Repo Pull Request](#review-shared-repo-pull-request)
-    - [Review Forked Repo Pull Request](#review-forked-repo-pull-request)
-    - [Merge Pull Request Locally and Push to Master Branch](#merge-pull-request-locally-and-push-to-master-branch)
-    - [Alternatively, Fetch Individual Pull Request](#alternatively-fetch-individual-pull-request)
-    - [Delete a Branch](#delete-a-branch)
-    - [Common Branch Commands](#common-branch-commands)
-    - [Common Add and Commit Commands](#common-add-and-commit-commands)
-    - [Common Push and Pull Commands](#common-push-and-pull-commands)
-    - [Fetch and Merge Versus Pull](#fetch-and-merge-versus-pull)
-    - [Adding a Remote Upstream and Syncing a Fork](#adding-a-remote-upstream-and-syncing-a-fork)
-    - [Keeping Branches Up-to-Date](#keeping-branches-up-to-date)
+    - [Bash Example](#bash-example)
+    - [Avoiding Cloning Conflicts Example](#avoiding-cloning-conflicts-example)    
+    - [Local Development Example](#local-development-example)
+    - [Review Shared Repo Pull Request Example](#review-shared-repo-pull-request-example)
+    - [Review Forked Repo Pull Request Example](#review-forked-repo-pull-request-example)
+    - [Merge Pull Request Locally and Push to Master Branch Example](#merge-pull-request-locally-and-push-to-master-branch-example)
+    - [Alternatively, Fetch Individual Pull Request Example](#alternatively-fetch-individual-pull-request-example)
+    - [Delete a Branch Example](#delete-a-branch-example)
+    - [Common Branch Commands Example](#common-branch-commands-example)
+    - [Common Add and Commit Commands Example](#common-add-and-commit-commands-example)
+    - [Common Push and Pull Commands Example](#common-push-and-pull-commands-example)
+    - [Fetch and Merge Versus Pull Example](#fetch-and-merge-versus-pull-example)
+    - [Adding a Remote Upstream and Syncing a Fork Example](#adding-a-remote-upstream-and-syncing-a-fork-example)
+    - [Keeping Branches Up-to-Date Example](#keeping-branches-up-to-date-example)
 - [Attribution](#attribution)
 - [Contact Kati](#contact-kati)
 - [Copyright](#copyright)
@@ -1804,19 +1804,6 @@ https://git.io/v5WMG
 
 <hr>
 
-
-
-<!--
-## Important Links
-
-* [DjangoCon GitHub Repo](https://github.com/djangocon)
-* [DjangoCon U.S. 2017 Website Repo GitHub](https://github.com/djangocon/2017.djangocon.us)
-
-:top: <sub>[**back to top**](#table-of-contents)</sub>
-
-<hr>
--->
-
 ## Useful Resources
 
 ### Links
@@ -1908,8 +1895,8 @@ Recover a Branch
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Bash
+    
+### Bash Example
 
 Go to the home directory
 
@@ -1938,8 +1925,8 @@ $ ls
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Avoiding Cloning Conflicts 
+       
+### Avoiding Cloning Conflicts Example
 
 Normal cloning
 
@@ -1953,7 +1940,7 @@ Avoid a local path conflict by giving a clone a different name (for instance if 
 $ git clone <repo-url> <different-local-directory-name>
 ```
 
-### Local Development
+### Local Development Example
 
 ```bash
 $ git clone <repo-url>
@@ -1968,8 +1955,8 @@ $ git push origin <branch-name>
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Review Shared Repo Pull Request
+    
+### Review Shared Repo Pull Request Example
 
 ```bash
 $ git fetch origin
@@ -1988,8 +1975,8 @@ $ git push origin <branch-name>
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Review Forked Repo Pull Request
+    
+### Review Forked Repo Pull Request Example
 
 ```bash
 $ git checkout -b <branch-name> master
@@ -2015,8 +2002,8 @@ $ git push https://github.com/<user-name>/<repo-name> <local-branch-name>:<remot
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Merge Pull Request Locally and Push to Master Branch
+    
+### Merge Pull Request Locally and Push to Master Branch Example
 
 ```bash
 $ git checkout master
@@ -2028,7 +2015,7 @@ $ git push origin master
 
 <hr>
 
-### Alternatively, Fetch Individual Pull Request
+### Alternatively, Fetch Individual Pull Request Example
 
 This will only work for pull request branches, not feature branches. 
 
@@ -2055,8 +2042,8 @@ $ git push origin patch-1
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Delete a Branch
+    
+### Delete a Branch Example
 
 Delete local branch
 
@@ -2079,8 +2066,8 @@ $ git push <remote-name> :<branch-name>
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Common Branch Commands
+    
+### Common Branch Commands Example
 
 Checkout (switch) to a branch that already exists (-b is not needed, because is used to create branch)
 
@@ -2103,8 +2090,8 @@ $ git checkout -b <branch-name> <branch-branching-off-of>
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Common Add and Commit Commands
+    
+### Common Add and Commit Commands Example
 
 Anytime you are working on a branch, whether it be a feature branch or a pull request branch and you have made a change, you can use these commands to add and commit your changes to git version control. 
 
@@ -2124,8 +2111,8 @@ $ git commit -am "Your note"
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Common Push and Pull Commands
+    
+### Common Push and Pull Commands Example
 
 Pulling and pushing directly from and to a remote repository
 
@@ -2152,7 +2139,7 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 
 <hr>
 
-### Fetch and Merge Versus Pull
+### Fetch and Merge Versus Pull Example
 
 There are two ways to fetch feature or pull request branch to your local development environment.  
 
@@ -2180,8 +2167,8 @@ $ git merge <remote-name>/<branch-name>
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Adding a Remote Upstream and Syncing a Fork
+    
+### Adding a Remote Upstream and Syncing a Fork Example
 
 When a shared repository is updated, the fork does not automatically update with the change. You could delete and re-fork the fork, but this is not practical, for instance, if you have a pull request pending. So, you can add the shared repository as a remote to your local clone, fetch the updates, and push them to your fork. 
 
@@ -2210,8 +2197,8 @@ upstream  https://github.com/upstream-username/original-repository (push)
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
-
-### Syncing Branches to Keep Them Up-to-Date
+    
+### Keeping Branches Up-to-Date Example
 
 If you are working from the "Shared Repository" Model, you are fetching from the origin. 
 If you are working from the "Fork and Pull" Model, you are fetching from the upstream.
