@@ -1481,7 +1481,7 @@ In the case of syncing a shared repo clone, we have write permission to the shar
 
 The generic code to add a remote upstream to update a forked repo clone is:
 $ git remote add <remote-name> <remote-url>
-So in this case we would do: git remote remote add upstream (url to the shared repo)
+So in this case we would do: git remote add upstream (url to the shared repo)
 $ git remote add upstream https://github.com/upstream-username/original-repository
 Verify this worked by running
 $ git remote -v
