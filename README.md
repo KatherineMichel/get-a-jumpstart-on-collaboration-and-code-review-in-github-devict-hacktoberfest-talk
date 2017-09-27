@@ -148,7 +148,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 1](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_0.jpg)
+![Slide 1](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_0.jpg)
 
 </td><td>
 
@@ -161,7 +161,7 @@ By Katherine "Kati" Michel
 
 <tr><td width="30%">
 
-![Slide 2](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_1.jpg)
+![Slide 2](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_1.jpg)
 
 </td><td>
 
@@ -174,7 +174,7 @@ Welcome, everyone. I’m Kati Michel. I'm thrilled to have the opportunity to te
 
 <tr><td width="30%">
 
-![Slide 3](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_2.jpg)
+![Slide 3](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_2.jpg)
 
 </td><td>
 
@@ -191,7 +191,7 @@ Welcome, everyone. I’m Kati Michel. I'm thrilled to have the opportunity to te
 
 <tr><td width="30%">
 
-![Slide 4](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_3.jpg)
+![Slide 4](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_3.jpg)
 
 </td><td>
 
@@ -207,7 +207,7 @@ Welcome, everyone. I’m Kati Michel. I'm thrilled to have the opportunity to te
 
 <tr><td width="30%">
 
-![Slide 5](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_7.jpg)
+![Slide 5](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_4.jpg)
 
 </td><td>
 
@@ -223,7 +223,7 @@ Welcome, everyone. I’m Kati Michel. I'm thrilled to have the opportunity to te
 
 <tr><td width="30%">
 
-![Slide 6](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_8.jpg)
+![Slide 6](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_5.jpg)
 
 </td><td>
 
@@ -236,7 +236,7 @@ One sentence in the project information that had a huge impact on me: "Are You N
 
 <tr><td width="30%">
 
-![Slide 7](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_9.jpg)
+![Slide 7](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_6.jpg)
 
 </td><td>
 
@@ -249,7 +249,7 @@ That was me. I became very determined to contribute and submitted my first pull 
 
 <tr><td width="30%">
 
-![Slide 8](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_10.jpg)
+![Slide 8](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_7.jpg)
 
 </td><td>
 
@@ -265,7 +265,7 @@ However, the process I'm going to be telling you about can also be applied to th
 
 <tr><td width="30%">
 
-![Slide 9](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_103.jpg)
+![Slide 9](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_8.jpg)
 
 </td><td>
 
@@ -283,7 +283,7 @@ You will find documentation for all of these things in the Useful Resources sect
 
 <tr><td width="30%">
 
-![Slide 10](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_11.jpg)
+![Slide 10](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_9.jpg)
 
 </td><td>
 
@@ -296,7 +296,7 @@ GitHub is a website built on the version control software Git.
 
 <tr><td width="30%">
 
-![Slide 11](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_12.jpg)
+![Slide 11](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_10.jpg)
 
 </td><td>
 
@@ -313,7 +313,7 @@ GitHub is a social network. You can:
 
 <tr><td width="30%">
 
-![Slide 12](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_13.jpg)
+![Slide 12](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_11.jpg)
 
 </td><td>
 
@@ -326,7 +326,7 @@ But the really important part of GitHub is that users can store and work on code
 
 <tr><td width="30%">
 
-![Slide 13](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_14.jpg)
+![Slide 13](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_12.jpg)
 
 </td><td>
 
@@ -341,7 +341,7 @@ For example, if you go to the DjangoCon US organization account you will see a l
 
 <tr><td width="30%">
 
-![Slide 14](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_15.jpg)
+![Slide 14](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_13.jpg)
 
 </td><td>
 
@@ -356,7 +356,7 @@ If you click on the hyperlink, it will open up the repo and you will see the fol
 
 <tr><td width="30%">
 
-![Slide 15](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_16.jpg)
+![Slide 15](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_14.jpg)
 
 </td><td>
 
@@ -374,7 +374,7 @@ When we are working on code, we can't do everything in the GitHub website.
 
 <tr><td width="30%">
 
-![Slide 16](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_17.jpg)
+![Slide 16](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_15.jpg)
 
 </td><td>
 
@@ -389,7 +389,7 @@ When we are working on code, we can't do everything in the GitHub website.
 
 <tr><td width="30%">
 
-![Slide 17](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_18.jpg)
+![Slide 17](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_16.jpg)
 
 </td><td>
 
@@ -407,7 +407,7 @@ I will elaborate on this process later.
 
 <tr><td width="30%">
 
-![Slide 18](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_19.jpg)
+![Slide 18](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_17.jpg)
 
 </td><td>
 
@@ -425,7 +425,7 @@ In order to be able to increase your level of responsibility, we need to have th
 
 <tr><td width="30%">
 
-![Slide 19](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_20.jpg)
+![Slide 19](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_18.jpg)
 
 </td><td>
 
@@ -440,7 +440,7 @@ This is fine, but imagine if there were multiple people all working on a repo an
 
 <tr><td width="30%">
 
-![Slide 20](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_21.jpg)
+![Slide 20](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_19.jpg)
 
 </td><td>
 
@@ -459,7 +459,7 @@ When you create a repo, by default you are working within a branch named master.
 
 <tr><td width="30%">
 
-![Slide 21](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_22.jpg)
+![Slide 21](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_20.jpg)
 
 </td><td>
 
@@ -474,7 +474,7 @@ Say for instance that you want to make a change in the branch, you can make a co
 
 <tr><td width="30%">
 
-![Slide 22](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_23.jpg)
+![Slide 22](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_21.jpg)
 
 </td><td>
 
@@ -489,7 +489,7 @@ You can create an unlimited number of branches and you can switch in between the
 
 <tr><td width="30%">
 
-![Slide 23](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_24.jpg)
+![Slide 23](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_22.jpg)
 
 </td><td>
 
@@ -504,7 +504,7 @@ At some point, when the feature branch author thinks it's done, a pull request w
 
 <tr><td width="30%">
 
-![Slide 24](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_25.jpg)
+![Slide 24](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_23.jpg)
 
 </td><td>
 
@@ -521,7 +521,7 @@ If the changes are accepted, they will be merged into the master branch. The mas
 
 <tr><td width="30%">
 
-![Slide 25](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_26.jpg)
+![Slide 25](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_24.jpg)
 
 </td><td>
 
@@ -534,7 +534,7 @@ Let's go back to the screenshot of editing a file in GitHub.
 
 <tr><td width="30%">
 
-![Slide 26](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_27.jpg)
+![Slide 26](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_25.jpg)
 
 </td><td>
 
@@ -549,7 +549,7 @@ There is a radial button you can choose to indicate you want to create a new bra
 
 <tr><td width="30%">
 
-![Slide 27](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_28.jpg)
+![Slide 27](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_26.jpg)
 
 </td><td>
 
@@ -565,7 +565,7 @@ There is a radial button you can choose to indicate you want to create a new bra
 
 <tr><td width="30%">
 
-![Slide 28](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_29.jpg)
+![Slide 28](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_27.jpg)
 
 </td><td>
 
@@ -578,7 +578,7 @@ There is a radial button you can choose to indicate you want to create a new bra
 
 <tr><td width="30%">
 
-![Slide 29](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_30.jpg)
+![Slide 29](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_28.jpg)
 
 </td><td>
 
@@ -594,7 +594,7 @@ The two different models typically correspond to the two different account types
 
 <tr><td width="30%">
 
-![Slide 30](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_31.jpg)
+![Slide 30](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_29.jpg)
 
 </td><td>
 
@@ -609,7 +609,7 @@ There are two types of accounts
 
 <tr><td width="30%">
 
-![Slide 31](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_32.jpg)
+![Slide 31](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_30.jpg)
 
 </td><td>
 
@@ -623,7 +623,7 @@ When a user has write permission to a repo, it means they can make changes direc
 
 <tr><td width="30%">
 
-![Slide 32](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_33.jpg)
+![Slide 32](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_31.jpg)
 
 </td><td>
 
@@ -640,7 +640,7 @@ https://help.github.com/articles/repository-permission-levels-for-an-organizatio
 
 <tr><td width="30%">
 
-![Slide 33](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_34.jpg)
+![Slide 33](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_32.jpg)
 
 </td><td>
 
@@ -653,7 +653,7 @@ Example: DjangoCon US website is a deployed live from the master branch and has 
 
 <tr><td width="30%">
 
-![Slide 34](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_35.jpg)
+![Slide 34](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_33.jpg)
 
 </td><td>
 
@@ -667,7 +667,7 @@ First, we’ll look at the “Shared Repository” Model. A shared repository is
 
 <tr><td width="30%">
 
-![Slide 35](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_36.jpg)
+![Slide 35](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_34.jpg)
 
 </td><td>
 
@@ -682,7 +682,7 @@ The “Fork and Pull” Model is typically used in user account repos. For examp
 
 <tr><td width="30%">
 
-![Slide 36](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_37.jpg)
+![Slide 36](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_35.jpg)
 
 </td><td>
 
@@ -697,7 +697,7 @@ We've gone to the DjangoCon US website repo.
 
 <tr><td width="30%">
 
-![Slide 37](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_38.jpg)
+![Slide 37](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_36.jpg)
 
 </td><td>
 
@@ -712,7 +712,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 38](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_39.jpg)
+![Slide 38](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_37.jpg)
 
 </td><td>
 
@@ -725,7 +725,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 39](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_40.jpg)
+![Slide 39](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_38.jpg)
 
 </td><td>
 
@@ -740,7 +740,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 40](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_41.jpg)
+![Slide 40](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_39.jpg)
 
 </td><td>
 
@@ -758,7 +758,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 41](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_46.jpg)
+![Slide 41](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_40.jpg)
 
 </td><td>
 
@@ -772,7 +772,7 @@ There will be a message notifying you that it is being forked.
 
 <tr><td width="30%">
 
-![Slide 42](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_47.jpg)
+![Slide 42](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_41.jpg)
 
 </td><td>
 
@@ -785,7 +785,7 @@ I've made a couple of diagrams that I hope will give you an idea of what the pro
 
 <tr><td width="30%">
 
-![Slide 43](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_48.jpg)
+![Slide 43](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_42.jpg)
 
 </td><td>
 
@@ -800,7 +800,7 @@ I've made a couple of diagrams that I hope will give you an idea of what the pro
 
 <tr><td width="30%">
 
-![Slide 44](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_49.jpg)
+![Slide 44](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_43.jpg)
 
 </td><td>
 
@@ -817,7 +817,7 @@ Git will track some details about the project, for instance, where we cloned our
 
 <tr><td width="30%">
 
-![Slide 45](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_50.jpg)
+![Slide 45](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_44.jpg)
 
 </td><td>
 
@@ -832,7 +832,7 @@ Git will track some details about the project, for instance, where we cloned our
 
 <tr><td width="30%">
 
-![Slide 46](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_51.jpg)
+![Slide 46](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_45.jpg)
 
 </td><td>
 
@@ -847,7 +847,7 @@ Git will track some details about the project, for instance, where we cloned our
 
 <tr><td width="30%">
 
-![Slide 47](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_52.jpg)
+![Slide 47](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_46.jpg)
 
 </td><td>
 
@@ -860,7 +860,7 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 <tr><td width="30%">
 
-![Slide 48](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_53.jpg)
+![Slide 48](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_47.jpg)
 
 </td><td>
 
@@ -876,7 +876,7 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 <tr><td width="30%">
 
-![Slide 49](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_54.jpg)
+![Slide 49](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_48.jpg)
 
 </td><td>
 
@@ -892,7 +892,7 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 <tr><td width="30%">
 
-![Slide 50](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_55.jpg)
+![Slide 50](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_49.jpg)
 
 </td><td>
 
@@ -933,7 +933,7 @@ $ ls
 
 <tr><td width="30%">
 
-![Slide 51](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_56.jpg)
+![Slide 51](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_50.jpg)
 
 </td><td>
 
@@ -949,7 +949,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 52](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_57.jpg)
+![Slide 52](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_51.jpg)
 
 </td><td>
 
@@ -964,7 +964,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 53](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_58.jpg)
+![Slide 53](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_52.jpg)
 
 </td><td>
 
@@ -980,7 +980,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 54](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_59.jpg)
+![Slide 54](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_53.jpg)
 
 </td><td>
 
@@ -995,7 +995,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 55](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_60.jpg)
+![Slide 55](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_54.jpg)
 
 </td><td>
 
@@ -1010,7 +1010,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 56](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_61.jpg)
+![Slide 56](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_55.jpg)
 
 </td><td>
 
@@ -1025,7 +1025,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 57](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_62.jpg)
+![Slide 57](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_56.jpg)
 
 </td><td>
 
@@ -1040,7 +1040,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 58](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_63.jpg)
+![Slide 58](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_57.jpg)
 
 </td><td>
 
@@ -1055,7 +1055,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 59](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_64.jpg)
+![Slide 59](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_58.jpg)
 
 </td><td>
 
@@ -1070,7 +1070,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 60](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_65.jpg)
+![Slide 60](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_59.jpg)
 
 </td><td>
 
@@ -1085,7 +1085,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 61](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_66.jpg)
+![Slide 61](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_60.jpg)
 
 </td><td>
 
@@ -1100,7 +1100,7 @@ Let's go back to the screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 62](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_67.jpg)
+![Slide 62](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_61.jpg)
 
 </td><td>
 
@@ -1113,7 +1113,7 @@ There will now be a new branch in the repo that is your origin and a message tel
 
 <tr><td width="30%">
 
-![Slide 63](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_68.jpg)
+![Slide 63](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_62.jpg)
 
 </td><td>
 
@@ -1128,7 +1128,7 @@ You can toggle back and forth between the branches by clicking on the branches i
 
 <tr><td width="30%">
 
-![Slide 64](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_69.jpg)
+![Slide 64](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_63.jpg)
 
 </td><td>
 
@@ -1141,7 +1141,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 65](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_70.jpg)
+![Slide 65](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_64.jpg)
 
 </td><td>
 
@@ -1161,7 +1161,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 66](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_71.jpg)
+![Slide 66](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_65.jpg)
 
 </td><td>
 
@@ -1176,7 +1176,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 67](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_72.jpg)
+![Slide 67](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_66.jpg)
 
 </td><td>
 
@@ -1191,7 +1191,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 68](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_73.jpg)
+![Slide 68](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_67.jpg)
 
 </td><td>
 
@@ -1208,7 +1208,7 @@ Underneath that will be info about how to merge the pull request.
 
 <tr><td width="30%">
 
-![Slide 69](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_74.jpg)
+![Slide 69](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_68.jpg)
 
 </td><td>
 
@@ -1223,7 +1223,7 @@ I will go over that in a minute.
 
 <tr><td width="30%">
 
-![Slide 70](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_75.jpg)
+![Slide 70](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_69.jpg)
 
 </td><td>
 
@@ -1240,7 +1240,7 @@ The first two options involve clicking the merge button in GitHub without runnin
 
 <tr><td width="30%">
 
-![Slide 71](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_76.jpg)
+![Slide 71](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_70.jpg)
 
 </td><td>
 
@@ -1261,7 +1261,7 @@ If a change needs to be made, you can
 
 <tr><td width="30%">
 
-![Slide 72](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_77.jpg)
+![Slide 72](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_71.jpg)
 
 </td><td>
 
@@ -1277,7 +1277,7 @@ This is why the pull request instructions are different.
 
 <tr><td width="30%">
 
-![Slide 73](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_78.jpg)
+![Slide 73](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_72.jpg)
 
 </td><td>
 
@@ -1314,7 +1314,7 @@ $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 
 <tr><td width="30%">
 
-![Slide 74](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_79.jpg)
+![Slide 74](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_73.jpg)
 
 </td><td>
 
@@ -1335,7 +1335,7 @@ $ git push origin master
 
 <tr><td width="30%">
 
-![Slide 75](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_80.jpg)
+![Slide 75](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_74.jpg)
 
 </td><td>
 
@@ -1366,7 +1366,7 @@ $ git push <remote-name> :<branch-name>
 
 <tr><td width="30%">
 
-![Slide 76](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_81.jpg)
+![Slide 76](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_75.jpg)
 
 </td><td>
 
@@ -1385,7 +1385,7 @@ I’m not really covering these, but it’s good to be aware of them if you want
 
 <tr><td width="30%">
 
-![Slide 77](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_82.jpg)
+![Slide 77](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_76.jpg)
 
 </td><td>
 
@@ -1401,7 +1401,7 @@ I’m not really covering these, but it’s good to be aware of them if you want
 
 <tr><td width="30%">
 
-![Slide 78]()
+![Slide 78](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_77.jpg)
 
 </td><td>
 
@@ -1414,7 +1414,7 @@ Any time you make a change to a file locally, you need to add and commit the cha
 
 <tr><td width="30%">
 
-![Slide 79](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_45.jpg)
+![Slide 79](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_78.jpg)
 
 </td><td>
 
@@ -1427,7 +1427,7 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 
 <tr><td width="30%">
 
-![Slide 80]()
+![Slide 80](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_79.jpg)
 
 </td><td>
 
@@ -1444,7 +1444,7 @@ The alternative is to run git pull. Because you are fetching and merging at the 
 
 <tr><td width="30%">
 
-![Slide 81]()
+![Slide 81](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_80.jpg)
 
 </td><td>
 
@@ -1460,7 +1460,7 @@ When someone makes a change to the original repo, the fork does not update. We c
 
 <tr><td width="30%">
 
-![Slide 82]()
+![Slide 82](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_81.jpg)
 
 </td><td>
 
@@ -1473,7 +1473,7 @@ In the case of syncing a shared repo clone, we have write permission to the shar
 
 <tr><td width="30%">
 
-![Slide 83]()
+![Slide 83](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_82.jpg)
 
 </td><td>
 
@@ -1491,7 +1491,7 @@ $ git remote -v
 
 <tr><td width="30%">
 
-![Slide 84]()
+![Slide 84](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_83.jpg)
 
 </td><td>
 
@@ -1505,7 +1505,7 @@ For fetching and merging, we fetch the updates from the remote, checkout the loc
 
 <tr><td width="30%">
 
-![Slide 85]()
+![Slide 85](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_84.jpg)
 
 </td><td>
 
@@ -1520,7 +1520,7 @@ In the second scenario, you are working from a clone of a fork. You fetch the up
 
 <tr><td width="30%">
 
-![Slide 86]()
+![Slide 86](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_85.jpg)
 
 </td><td>
 
@@ -1535,7 +1535,7 @@ In the last scenario, instead of fetching and merging, we are checking out the l
 
 <tr><td width="30%">
 
-![Slide 87](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_84.jpg)
+![Slide 87](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_86.jpg)
 
 </td><td>
 
@@ -1548,7 +1548,7 @@ The workflow we have been using is basically GitHub Flow. It consists of merging
 
 <tr><td width="30%">
 
-![Slide 88](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_85.jpg)
+![Slide 88](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_87.jpg)
 
 </td><td>
 
@@ -1561,7 +1561,7 @@ Some projects use both a master and develop branch. For example, in a mission cr
 
 <tr><td width="30%">
 
-![Slide 89](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_86.jpg)
+![Slide 89](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_88.jpg)
 
 </td><td>
 
@@ -1579,7 +1579,7 @@ Some developers have passionate views about workflow (see comment threads in som
 
 <tr><td width="30%">
 
-![Slide 90]()
+![Slide 90](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_89.jpg)
 
 </td><td>
 
@@ -1608,7 +1608,7 @@ $ git checkout -b <branch-name> <branch-branching-off-of>
 
 <tr><td width="30%">
 
-![Slide 91](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_87.jpg)
+![Slide 91](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_90.jpg)
 
 </td><td>
 
@@ -1625,7 +1625,7 @@ $ git checkout -b <branch-name> <branch-branching-off-of>
 
 <tr><td width="30%">
 
-![Slide 92](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_90.jpg)
+![Slide 92](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_91.jpg)
 
 </td><td>
 
@@ -1643,7 +1643,7 @@ I hope that you will make your project documentation and attitude toward communi
 
 <tr><td width="30%">
 
-![Slide 93](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_94.jpg)
+![Slide 93](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_92.jpg)
 
 </td><td>
 
@@ -1657,7 +1657,7 @@ If you have the authority, I recommend that you go into a repo’s Settings, cli
 
 <tr><td width="30%">
 
-![Slide 94](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_95.jpg)
+![Slide 94](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_93.jpg)
 
 </td><td>
 
@@ -1676,7 +1676,7 @@ Here are a few things you might want to do to keep your code safe
 
 <tr><td width="30%">
 
-![Slide 95](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_96.jpg)
+![Slide 95](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_94.jpg)
 
 </td><td>
 
@@ -1693,7 +1693,7 @@ Here are a few productivity helpers that I recommend:
 
 <tr><td width="30%">
 
-![Slide 96](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_97.jpg)
+![Slide 96](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_95.jpg)
 
 </td><td>
 
@@ -1712,7 +1712,7 @@ I recommend that when you are looking for a project to contribute to:
 
 <tr><td width="30%">
 
-![Slide 97](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_98.jpg)
+![Slide 97](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_96.jpg)
 
 </td><td>
 
@@ -1729,7 +1729,7 @@ I recommend that you:
 
 <tr><td width="30%">
 
-![Slide 98](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_104.jpg)
+![Slide 98](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_97.jpg)
 
 </td><td>
 
@@ -1758,7 +1758,7 @@ $ man git-clone
 
 <tr><td width="30%">
 
-![Slide 99](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_99.jpg)
+![Slide 99](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_98.jpg)
 
 </td><td>
 
@@ -1786,7 +1786,7 @@ I recommend that you be good to yourself.
 
 <tr><td width="30%">
 
-![Slide 100](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_100.jpg)
+![Slide 100](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_99.jpg)
 
 </td><td>
 
@@ -1800,7 +1800,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 
 <tr><td width="30%">
 
-![Slide 101](https://speakerd.s3.amazonaws.com/presentations/cb5c1edd71774fff97c9f36e4bda9180/slide_105.jpg)
+![Slide 101](https://speakerd.s3.amazonaws.com/presentations/cf52ec3929b04ff58903df5071b56079/slide_100.jpg)
 
 </td><td>
 
