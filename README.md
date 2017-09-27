@@ -229,7 +229,7 @@ Welcome, everyone. I’m Kati Michel. I'm thrilled to have the opportunity to te
 
 ### The One Sentence that Motivated Me to Start Using GitHub
 
-One sentence in the project information that had a huge impact on me: "Are You New to Github But Want to Contribute?" 
+One sentence in the project information that had a huge impact on me: "Are You New to GitHub But Want to Contribute?" 
 
 </td></tr>
 
@@ -1270,7 +1270,7 @@ If a change needs to be made, you can
 This is why the pull request instructions are different.
 * As a DjangoCon US website maintainer, we are able to fetch updates made to the DjangoCon US website repo into a hidden folder named .git in our local development environment. These updates will include branches made directly to the DjangoCon US website repo, but they will not include branches made through a fork, because they come from outside of the origin. 
 * Branches made through a fork need to be pulled individually into our local development environment.
-* The branches in the .git folder will be remote-tracking branches and can be referred to aas <remote>/<branch>
+* The branches in the .git folder will be remote-tracking branches and can be referred to as <remote>/<branch>
 
 </td></tr>
 
