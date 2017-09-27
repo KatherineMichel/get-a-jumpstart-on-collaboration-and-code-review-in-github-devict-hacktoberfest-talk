@@ -1425,9 +1425,6 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
 ![Slide 80]()
@@ -1435,6 +1432,12 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 </td><td>
 
 ### Fetching Versus Pulling
+
+There are two ways to update. 
+One way is to use git fetch and git merge
+Another way is to use git pull, which is git fetch and git merge in one command.
+We used git fetch a few minutes ago when we talked about fetching updates to review a pull request. After fetching the updates from the remote, we can checkout a local branch and merge a remote-tracking branch from the .git folder into the local branch to update it.
+The alternative is to run git pull. Because you are fetching and merging at the same time, you do not need to refer to the remote tracking branch. You simply checkout the branch you are updating and use git pull <remote-name> <branch-name> instead. 
 
 </td></tr>
 
@@ -1447,9 +1450,10 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 
 ### Syncing a Forked Repo Clone
 
-In the case of a fork, you could delete the fork and re-fork it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on. 
-
-Here is another way to update the fork. The fork automatically became the remote origin when the repo was cloned locally. We can add an additional remote to the shared repo, which is commonly called upstream in this situation. We can then fetch and merge or pull updates from the upstream and then push them to the remote origin (fork). 
+This will be the most important slide from this section for those of you who are new to collaboration
+Let’s look at the example of syncing a forked repo clone. 
+When someone makes a change to the original repo, the fork does not update. We could delete a fork and re-fork it to update it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on.
+* Here is another way to update the fork. We already know that the fork automatically becomes the remote origin when the repo is cloned locally. We can add an additional remote to the local clone that points to the shared repo. The remote in this situation is commonly called upstream. We can then fetch and merge or pull updates from the upstream to the local clone, then push the updates to the fork. We are not pushing to the upstream, because presumably, we do not have write permission. 
 
 </td></tr>
 
@@ -1462,7 +1466,7 @@ Here is another way to update the fork. The fork automatically became the remote
 
 ### Syncing a Shared Repo Clone
 
-If you have write access to the shared repo, you do not need a fork, you can fetch and merge or pull updates from the remote origin (shared repo) to the local clone and push updates to the remote origin (shared repo). 
+In the case of syncing a shared repo clone, we have write permission to the shared repo, so we do not need a fork. We can fetch and merge or pull updates from the shared repo (remote origin)  to the local clone and push updates back to the shared repo (remote origin). 
 
 </td></tr>
 
@@ -1475,6 +1479,13 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 ### Adding a Remote Upstream
 
+The generic code to add a remote upstream to update a forked repo clone is:
+$ git remote add <remote-name> <remote-url>
+So in this case we would do: git remote remote add upstream (url to the shared repo)
+$ git remote add upstream https://github.com/upstream-username/original-repository
+Verify this worked by running
+$ git remote -v
+
 </td></tr>
 
 
@@ -1485,6 +1496,9 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 </td><td>
 
 ### Syncing Commands
+Here are some generic syncing commands
+For pulling or pushing, we checkout the branch, then pull or push using the remote name or remote URL and branch name
+For fetching and merging, we fetch the updates from the remote, checkout the local branch we want to update, and merge the remote-tracking branch into the local branch
 
 </td></tr>
 
@@ -1497,6 +1511,10 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 ### Common Syncing Scenarios
 
+Here are a couple of common scenarios
+In the first scenario, you are a maintainer of a shared repo. You fetch the updates from origin (shared repo), checkout the local master branch, and merge the remote-tracking branch master into the local branch master.
+In the second scenario, you are working from a clone of a fork. You fetch the updates from the upstream (shared repo that you presumably do not have write permission to), checkout the local master branch, merge the remote-tracking branch master into your local branch master and push the updates to the master branch of your fork (which is your origin). 
+
 </td></tr>
 
 
@@ -1508,12 +1526,12 @@ If you have write access to the shared repo, you do not need a fork, you can fet
 
 ### Common Syncing Scenarios, Continued
 
+Here is another useful scenario
+Say for instance we have just updated our local master branch, we might want to checkout a feature branch and merge the newly updated master branch into the feature branch, or you could merge the remote-tracking branch master branch into it instead. Same difference. 
+In the last scenario, instead of fetching and merging, we are checking out the local master branch and pulling and pushing to and from the origin master branch
+
 </td></tr>
 
-
-<!--
-Done below this
--->
 
 <tr><td width="30%">
 
