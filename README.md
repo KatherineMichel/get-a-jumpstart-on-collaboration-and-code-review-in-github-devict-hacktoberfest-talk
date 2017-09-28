@@ -1411,7 +1411,22 @@ I’m not really covering these, but it’s good to be aware of them if you want
 
 ### Common Adding and Committing Commands
 
-Any time you make a change to a file locally, you need to add and commit the change to git version control. For instance, if you create a branch and make a change, or if you are a reviewing a pull request and make a change. Here are a couple ways to do that. There are other variations. Check out the docs.
+I pointed this out when I showed how to make a branch locally and make a change to it, but I didn't point it out when I talked about making a change to a pull request branch that you are reviewing locally. Basically, any time you make a change to a file locally, you need to add and commit the change to git version control. 
+
+The way that I did it earlier was to use: 
+
+Another way is to combine both of those commands into: 
+
+There are other variations that you'll come across in documentation and tutorials.
+
+```bash
+$ git add .
+$ git commit -m "Your note"
+```
+
+```bash
+$ git commit -am "Your note"
+```
 
 </td></tr>
 
@@ -1424,7 +1439,7 @@ Any time you make a change to a file locally, you need to add and commit the cha
 
 ### Manual Updates
 
-When you make an update somewhere, the code doesn’t automatically update elsewhere. For example, if a change is made in the DjangoCon U.S. repo master branch, a fork or clone master branch is not automatically updated. 
+When you make an update somewhere, the code doesn’t automatically update elsewhere. For example, if a change is made in the DjangoCon U.S. repo, a fork or clone is not automatically updated. 
 
 </td></tr>
 
@@ -1437,13 +1452,15 @@ When you make an update somewhere, the code doesn’t automatically update elsew
 
 ### Fetching Versus Pulling
 
-There are two ways to update. 
+There are two ways to manually update. 
 One way is to use git fetch and git merge
 Another way is to use git pull, which is git fetch and git merge in one command.
-We used git fetch a few minutes ago when we talked about fetching updates to review a pull request. After fetching the updates from the remote, we can checkout a local branch and merge a remote-tracking branch from the .git folder into the local branch to update it.
-The alternative is to run git pull. Because you are fetching and merging at the same time, you do not need to refer to the remote tracking branch. You simply checkout the branch you are updating and use git pull <remote-name> <branch-name> instead. 
+We used git fetch a few minutes ago when we talked about fetching updates to review a pull request. In that situation, we were creating a new branch and inserting the contents of the pull request remote-tracking branch into it. But in this situation, we are fetching the updates from a remote (it could be the origin or another one, which I'll talk about in a minute), checking out a local branch that already exists and merging the up-to-date remote-tracking branch into the local branch to update it. 
+The alternative is to run git pull. In this scenario, we also need to be checkout to the local branch. Because we are fetching and merging at the same time, we do not need to refer to the remote-tracking branch. We use git pull <remote-name> space <branch-name> instead. 
 
 </td></tr>
+
+
 
 
 <tr><td width="30%">
@@ -1456,7 +1473,7 @@ The alternative is to run git pull. Because you are fetching and merging at the 
 
 This will be the most important slide from this section for those of you who are new to collaboration
 Let’s look at the example of syncing a forked repo clone. 
-When someone makes a change to the original repo, the fork does not update. We could delete a fork and re-fork it to update it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on.
+Say for instance, a maintainer makes a change in the DjangoCo U.S. website repo. We could delete a fork and re-fork it to update it, but if you have a pull request pending, the pull request will now be inactive and it will be harder for you and the maintainer who reviews the pull request to work on.
 * Here is another way to update the fork. We already know that the fork automatically becomes the remote origin when the repo is cloned locally. We can add an additional remote to the local clone that points to the shared repo. The remote in this situation is commonly called upstream. We can then fetch and merge or pull updates from the upstream to the local clone, then push the updates to the fork. We are not pushing to the upstream, because presumably, we do not have write permission. 
 
 </td></tr>
@@ -1517,7 +1534,7 @@ For fetching and merging, we fetch the updates from the remote, checkout the loc
 
 Here are a couple of common scenarios
 In the first scenario, you are a maintainer of a shared repo. You fetch the updates from origin (shared repo), checkout the local master branch, and merge the remote-tracking branch master into the local branch master.
-In the second scenario, you are working from a clone of a fork. You fetch the updates from the upstream (shared repo that you presumably do not have write permission to), checkout the local master branch, merge the remote-tracking branch master into your local branch master and push the updates to the master branch of your fork (which is your origin). 
+In the second scenario, you are working from a clone of a fork. You fetch the updates from the upstream (shared repo), checkout the local master branch, merge the remote-tracking branch master into your local branch master and push the updates to the master branch of your fork (which is your origin). 
 
 </td></tr>
 
