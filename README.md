@@ -4,7 +4,8 @@
 
 - [About](#about)
 - [GitHub and Git Installation Instructions](#github-and-git-installation-instructions)
-- [Important devICT Hacktoberfest Links](#important-webcast-links)
+- [Important Hacktoberfest Links](#important-hacktoberfest-links)
+- [Important devICT Hacktoberfest Links](#important-devict-hacktoberfest-links)
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
 - [Slides and Script](#slides-and-script)
 - [Useful Resources](#useful-resources)
@@ -54,7 +55,7 @@ Slide Deck and Video Recording
 * [Setting Your Username in Git](https://help.github.com/articles/setting-your-username-in-git)
 * [Setting Your Email Address in Git](https://help.github.com/articles/setting-your-commit-email-address-in-git)
 
-#### A few helpful commands
+### A few helpful commands
 
 Verify that Git is installed by typing into your command line
 
