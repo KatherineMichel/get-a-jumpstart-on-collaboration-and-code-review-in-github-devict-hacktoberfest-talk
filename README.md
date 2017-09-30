@@ -31,18 +31,15 @@
 
 ## About
 
-Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give for [devICT](https://devict.org), Thursday, September 28, 2017
+Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave to [devICT](https://devict.org), Thursday, September 28, 2017
 at 7:00 p.m. CST at the [Labor Party](http://labor-party.com).
  
  Meetup Page
 * ["devICT Presents: Get a Jumpstart on Collaboration and Code Review in GitHub"](https://www.meetup.com/devict/events/243303338)
 
-Slide Deck
+Slide Deck and Video Recording
 * [Original slide deck](https://docs.google.com/presentation/d/1gt-34GyIXxhzu4Yz4v4o1gZjIDdOTIsEAXHdhspArGI/edit?usp=sharing)
-
-<!--
-* [Video recording](https://youtu.be/eBTLPYbVvQY)
--->
+* [Video recording](https://youtu.be/qKQddTEHcXs)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -81,9 +78,20 @@ $ git config --global user.email
 
 <hr>
 
-## Important devICT Hacktoberfest Links
+## Important Hacktoberfest Links
 
 * [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+* [Explore Hacktoberfest Projects](https://hacktoberfest.digitalocean.com/#projects)
+* ["Browse all participating Hacktoberfest projects on GitHub"](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+* [Find helpful tips from our list of resources](https://hacktoberfest.digitalocean.com/#resources)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
+## Important devICT Hacktoberfest Links
+
+* [devICT Hacktoberfest Website](https://devict-hacktoberfest.herokuapp.com)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
