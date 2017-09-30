@@ -48,7 +48,34 @@ Slide Deck
 
 <hr>
 
-### GitHub and Git Installation Instructions
+## GitHub and Git Installation Instructions
+
+* [GitHub Homepage (for user account signup)](https://github.com)
+* [Git Downloads (based on your operating system)](https://git-scm.com/downloads)
+* [Getting Started Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Homebrew Git Formula (for Mac users who use Homebrew)](http://braumeister.org/formula/git)
+* [Setting Your Username in Git](https://help.github.com/articles/setting-your-username-in-git)
+* [Setting Your Email Address in Git](https://help.github.com/articles/setting-your-commit-email-address-in-git)
+
+#### A few helpful commands
+
+Verify that Git is installed by typing into your command line
+
+```bash
+$ git --version
+```
+
+Verify that your username is set by typing into your command line
+
+```bash
+$ git config --global user.name
+```
+
+Verify that your email is set by typing into your command line
+
+```bash
+$ git config --global user.email
+```
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
