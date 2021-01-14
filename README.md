@@ -2338,4 +2338,4 @@ Thank you!
 
 ## Copyright
 
-© 2017 Katherine Michel. All Rights Reserved.
+© 2017 to Present Katherine Michel. All Rights Reserved.
