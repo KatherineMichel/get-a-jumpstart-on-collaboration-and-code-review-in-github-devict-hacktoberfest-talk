@@ -1,4 +1,4 @@
-# Get a Jumpstart on Collaboration and Code Review in GitHub- devICT Hacktoberfest
+# Get a Jumpstart on Collaboration and Code Review in GitHub- devICT Hacktoberfest Talk
 
 ## Table of Contents
 
